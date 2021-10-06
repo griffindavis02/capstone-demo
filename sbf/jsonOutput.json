@@ -1,0 +1,3508 @@
+{
+    "Data": [
+        {
+            "Rate": 0.1,
+            "FlipData": [
+                {
+                    "IterationNum": 1,
+                    "Data": {
+                        "PreviousValue": 305419896,
+                        "IntBit": 5,
+                        "ErrorValue": 305419864,
+                        "DeltaValue": -32,
+                        "When": "09-29-2021 20:05:48.602730760"
+                    }
+                },
+                {
+                    "IterationNum": 2,
+                    "Data": {
+                        "PreviousValue": 305419864,
+                        "IntBit": 8,
+                        "ErrorValue": 305420120,
+                        "DeltaValue": 256,
+                        "When": "09-29-2021 20:05:48.602767030"
+                    }
+                },
+                {
+                    "IterationNum": 3,
+                    "Data": {
+                        "PreviousValue": 305420120,
+                        "IntBit": 10,
+                        "ErrorValue": 305419096,
+                        "DeltaValue": -1024,
+                        "When": "09-29-2021 20:05:48.602767808"
+                    }
+                },
+                {
+                    "IterationNum": 4,
+                    "Data": {
+                        "PreviousValue": 305419096,
+                        "IntBit": 11,
+                        "ErrorValue": 305421144,
+                        "DeltaValue": 2048,
+                        "When": "09-29-2021 20:05:48.602769794"
+                    }
+                },
+                {
+                    "IterationNum": 5,
+                    "Data": {
+                        "PreviousValue": 305421144,
+                        "IntBit": 23,
+                        "ErrorValue": 313809752,
+                        "DeltaValue": 8388608,
+                        "When": "09-29-2021 20:05:48.602770546"
+                    }
+                },
+                {
+                    "IterationNum": 6,
+                    "Data": {
+                        "PreviousValue": 313809752,
+                        "IntBit": 3,
+                        "ErrorValue": 313809744,
+                        "DeltaValue": -8,
+                        "When": "09-29-2021 20:05:48.602772748"
+                    }
+                },
+                {
+                    "IterationNum": 7,
+                    "Data": {
+                        "PreviousValue": 313809744,
+                        "IntBit": 20,
+                        "ErrorValue": 312761168,
+                        "DeltaValue": -1048576,
+                        "When": "09-29-2021 20:05:48.602773645"
+                    }
+                },
+                {
+                    "IterationNum": 8,
+                    "Data": {
+                        "PreviousValue": 312761168,
+                        "IntBit": 31,
+                        "ErrorValue": 2460244816,
+                        "DeltaValue": 2147483648,
+                        "When": "09-29-2021 20:05:48.602774295"
+                    }
+                },
+                {
+                    "IterationNum": 9,
+                    "Data": {
+                        "PreviousValue": 2460244816,
+                        "IntBit": 16,
+                        "ErrorValue": 2460310352,
+                        "DeltaValue": 65536,
+                        "When": "09-29-2021 20:05:48.602775147"
+                    }
+                },
+                {
+                    "IterationNum": 10,
+                    "Data": {
+                        "PreviousValue": 2460310352,
+                        "IntBit": 24,
+                        "ErrorValue": 2477087568,
+                        "DeltaValue": 16777216,
+                        "When": "09-29-2021 20:05:48.602775942"
+                    }
+                },
+                {
+                    "IterationNum": 11,
+                    "Data": {
+                        "PreviousValue": 2477087568,
+                        "IntBit": 9,
+                        "ErrorValue": 2477087056,
+                        "DeltaValue": -512,
+                        "When": "09-29-2021 20:05:48.602776807"
+                    }
+                },
+                {
+                    "IterationNum": 12,
+                    "Data": {
+                        "PreviousValue": 2477087056,
+                        "IntBit": 19,
+                        "ErrorValue": 2477611344,
+                        "DeltaValue": 524288,
+                        "When": "09-29-2021 20:05:48.602777417"
+                    }
+                },
+                {
+                    "IterationNum": 13,
+                    "Data": {
+                        "PreviousValue": 2477611344,
+                        "IntBit": 15,
+                        "ErrorValue": 2477644112,
+                        "DeltaValue": 32768,
+                        "When": "09-29-2021 20:05:48.602778642"
+                    }
+                },
+                {
+                    "IterationNum": 14,
+                    "Data": {
+                        "PreviousValue": 2477644112,
+                        "IntBit": 28,
+                        "ErrorValue": 2209208656,
+                        "DeltaValue": -268435456,
+                        "When": "09-29-2021 20:05:48.602780433"
+                    }
+                },
+                {
+                    "IterationNum": 15,
+                    "Data": {
+                        "PreviousValue": 2209208656,
+                        "IntBit": 29,
+                        "ErrorValue": 2746079568,
+                        "DeltaValue": 536870912,
+                        "When": "09-29-2021 20:05:48.602780735"
+                    }
+                },
+                {
+                    "IterationNum": 16,
+                    "Data": {
+                        "PreviousValue": 2746079568,
+                        "IntBit": 30,
+                        "ErrorValue": 3819821392,
+                        "DeltaValue": 1073741824,
+                        "When": "09-29-2021 20:05:48.602781033"
+                    }
+                },
+                {
+                    "IterationNum": 17,
+                    "Data": {
+                        "PreviousValue": 3819821392,
+                        "IntBit": 6,
+                        "ErrorValue": 3819821328,
+                        "DeltaValue": -64,
+                        "When": "09-29-2021 20:05:48.602781562"
+                    }
+                },
+                {
+                    "IterationNum": 18,
+                    "Data": {
+                        "PreviousValue": 3819821328,
+                        "IntBit": 7,
+                        "ErrorValue": 3819821456,
+                        "DeltaValue": 128,
+                        "When": "09-29-2021 20:05:48.602782133"
+                    }
+                },
+                {
+                    "IterationNum": 19,
+                    "Data": {
+                        "PreviousValue": 3819821456,
+                        "IntBit": 6,
+                        "ErrorValue": 3819821520,
+                        "DeltaValue": 64,
+                        "When": "09-29-2021 20:05:48.602783464"
+                    }
+                },
+                {
+                    "IterationNum": 20,
+                    "Data": {
+                        "PreviousValue": 3819821520,
+                        "IntBit": 7,
+                        "ErrorValue": 3819821392,
+                        "DeltaValue": -128,
+                        "When": "09-29-2021 20:05:48.602784911"
+                    }
+                },
+                {
+                    "IterationNum": 21,
+                    "Data": {
+                        "PreviousValue": 3819821392,
+                        "IntBit": 16,
+                        "ErrorValue": 3819755856,
+                        "DeltaValue": -65536,
+                        "When": "09-29-2021 20:05:48.602785515"
+                    }
+                },
+                {
+                    "IterationNum": 22,
+                    "Data": {
+                        "PreviousValue": 3819755856,
+                        "IntBit": 19,
+                        "ErrorValue": 3819231568,
+                        "DeltaValue": -524288,
+                        "When": "09-29-2021 20:05:48.602785888"
+                    }
+                },
+                {
+                    "IterationNum": 23,
+                    "Data": {
+                        "PreviousValue": 3819231568,
+                        "IntBit": 20,
+                        "ErrorValue": 3820280144,
+                        "DeltaValue": 1048576,
+                        "When": "09-29-2021 20:05:48.602786191"
+                    }
+                },
+                {
+                    "IterationNum": 24,
+                    "Data": {
+                        "PreviousValue": 3820280144,
+                        "IntBit": 9,
+                        "ErrorValue": 3820280656,
+                        "DeltaValue": 512,
+                        "When": "09-29-2021 20:05:48.602787153"
+                    }
+                },
+                {
+                    "IterationNum": 25,
+                    "Data": {
+                        "PreviousValue": 3820280656,
+                        "IntBit": 13,
+                        "ErrorValue": 3820288848,
+                        "DeltaValue": 8192,
+                        "When": "09-29-2021 20:05:48.602787549"
+                    }
+                },
+                {
+                    "IterationNum": 26,
+                    "Data": {
+                        "PreviousValue": 3820288848,
+                        "IntBit": 16,
+                        "ErrorValue": 3820354384,
+                        "DeltaValue": 65536,
+                        "When": "09-29-2021 20:05:48.602787916"
+                    }
+                },
+                {
+                    "IterationNum": 27,
+                    "Data": {
+                        "PreviousValue": 3820354384,
+                        "IntBit": 1,
+                        "ErrorValue": 3820354386,
+                        "DeltaValue": 2,
+                        "When": "09-29-2021 20:05:48.602788755"
+                    }
+                },
+                {
+                    "IterationNum": 28,
+                    "Data": {
+                        "PreviousValue": 3820354386,
+                        "IntBit": 3,
+                        "ErrorValue": 3820354394,
+                        "DeltaValue": 8,
+                        "When": "09-29-2021 20:05:48.602789078"
+                    }
+                },
+                {
+                    "IterationNum": 29,
+                    "Data": {
+                        "PreviousValue": 3820354394,
+                        "IntBit": 15,
+                        "ErrorValue": 3820321626,
+                        "DeltaValue": -32768,
+                        "When": "09-29-2021 20:05:48.602789735"
+                    }
+                },
+                {
+                    "IterationNum": 30,
+                    "Data": {
+                        "PreviousValue": 3820321626,
+                        "IntBit": 26,
+                        "ErrorValue": 3887430490,
+                        "DeltaValue": 67108864,
+                        "When": "09-29-2021 20:05:48.602790361"
+                    }
+                },
+                {
+                    "IterationNum": 31,
+                    "Data": {
+                        "PreviousValue": 3887430490,
+                        "IntBit": 19,
+                        "ErrorValue": 3887954778,
+                        "DeltaValue": 524288,
+                        "When": "09-29-2021 20:05:48.602791458"
+                    }
+                },
+                {
+                    "IterationNum": 32,
+                    "Data": {
+                        "PreviousValue": 3887954778,
+                        "IntBit": 24,
+                        "ErrorValue": 3871177562,
+                        "DeltaValue": -16777216,
+                        "When": "09-29-2021 20:05:48.602791900"
+                    }
+                },
+                {
+                    "IterationNum": 33,
+                    "Data": {
+                        "PreviousValue": 3871177562,
+                        "IntBit": 15,
+                        "ErrorValue": 3871210330,
+                        "DeltaValue": 32768,
+                        "When": "09-29-2021 20:05:48.602794042"
+                    }
+                },
+                {
+                    "IterationNum": 34,
+                    "Data": {
+                        "PreviousValue": 3871210330,
+                        "IntBit": 28,
+                        "ErrorValue": 4139645786,
+                        "DeltaValue": 268435456,
+                        "When": "09-29-2021 20:05:48.602796269"
+                    }
+                },
+                {
+                    "IterationNum": 35,
+                    "Data": {
+                        "PreviousValue": 4139645786,
+                        "IntBit": 7,
+                        "ErrorValue": 4139645914,
+                        "DeltaValue": 128,
+                        "When": "09-29-2021 20:05:48.602796930"
+                    }
+                },
+                {
+                    "IterationNum": 36,
+                    "Data": {
+                        "PreviousValue": 4139645914,
+                        "IntBit": 16,
+                        "ErrorValue": 4139580378,
+                        "DeltaValue": -65536,
+                        "When": "09-29-2021 20:05:48.602797499"
+                    }
+                },
+                {
+                    "IterationNum": 37,
+                    "Data": {
+                        "PreviousValue": 4139580378,
+                        "IntBit": 31,
+                        "ErrorValue": 1992096730,
+                        "DeltaValue": -2147483648,
+                        "When": "09-29-2021 20:05:48.602799347"
+                    }
+                },
+                {
+                    "IterationNum": 38,
+                    "Data": {
+                        "PreviousValue": 1992096730,
+                        "IntBit": 0,
+                        "ErrorValue": 1992096731,
+                        "DeltaValue": 1,
+                        "When": "09-29-2021 20:05:48.602799657"
+                    }
+                },
+                {
+                    "IterationNum": 39,
+                    "Data": {
+                        "PreviousValue": 1992096731,
+                        "IntBit": 2,
+                        "ErrorValue": 1992096735,
+                        "DeltaValue": 4,
+                        "When": "09-29-2021 20:05:48.602799984"
+                    }
+                },
+                {
+                    "IterationNum": 40,
+                    "Data": {
+                        "PreviousValue": 1992096735,
+                        "IntBit": 6,
+                        "ErrorValue": 1992096671,
+                        "DeltaValue": -64,
+                        "When": "09-29-2021 20:05:48.602800375"
+                    }
+                },
+                {
+                    "IterationNum": 41,
+                    "Data": {
+                        "PreviousValue": 1992096671,
+                        "IntBit": 25,
+                        "ErrorValue": 1958542239,
+                        "DeltaValue": -33554432,
+                        "When": "09-29-2021 20:05:48.602801272"
+                    }
+                },
+                {
+                    "IterationNum": 42,
+                    "Data": {
+                        "PreviousValue": 1958542239,
+                        "IntBit": 4,
+                        "ErrorValue": 1958542223,
+                        "DeltaValue": -16,
+                        "When": "09-29-2021 20:05:48.602801899"
+                    }
+                },
+                {
+                    "IterationNum": 43,
+                    "Data": {
+                        "PreviousValue": 1958542223,
+                        "IntBit": 6,
+                        "ErrorValue": 1958542287,
+                        "DeltaValue": 64,
+                        "When": "09-29-2021 20:05:48.602802228"
+                    }
+                },
+                {
+                    "IterationNum": 44,
+                    "Data": {
+                        "PreviousValue": 1958542287,
+                        "IntBit": 20,
+                        "ErrorValue": 1957493711,
+                        "DeltaValue": -1048576,
+                        "When": "09-29-2021 20:05:48.602802955"
+                    }
+                },
+                {
+                    "IterationNum": 45,
+                    "Data": {
+                        "PreviousValue": 1957493711,
+                        "IntBit": 22,
+                        "ErrorValue": 1961688015,
+                        "DeltaValue": 4194304,
+                        "When": "09-29-2021 20:05:48.602804357"
+                    }
+                },
+                {
+                    "IterationNum": 46,
+                    "Data": {
+                        "PreviousValue": 1961688015,
+                        "IntBit": 24,
+                        "ErrorValue": 1978465231,
+                        "DeltaValue": 16777216,
+                        "When": "09-29-2021 20:05:48.602804697"
+                    }
+                },
+                {
+                    "IterationNum": 47,
+                    "Data": {
+                        "PreviousValue": 1978465231,
+                        "IntBit": 7,
+                        "ErrorValue": 1978465103,
+                        "DeltaValue": -128,
+                        "When": "09-29-2021 20:05:48.602805470"
+                    }
+                },
+                {
+                    "IterationNum": 48,
+                    "Data": {
+                        "PreviousValue": 1978465103,
+                        "IntBit": 13,
+                        "ErrorValue": 1978456911,
+                        "DeltaValue": -8192,
+                        "When": "09-29-2021 20:05:48.602805947"
+                    }
+                },
+                {
+                    "IterationNum": 49,
+                    "Data": {
+                        "PreviousValue": 1978456911,
+                        "IntBit": 24,
+                        "ErrorValue": 1961679695,
+                        "DeltaValue": -16777216,
+                        "When": "09-29-2021 20:05:48.602806568"
+                    }
+                },
+                {
+                    "IterationNum": 50,
+                    "Data": {
+                        "PreviousValue": 1961679695,
+                        "IntBit": 25,
+                        "ErrorValue": 1995234127,
+                        "DeltaValue": 33554432,
+                        "When": "09-29-2021 20:05:48.602806856"
+                    }
+                },
+                {
+                    "IterationNum": 51,
+                    "Data": {
+                        "PreviousValue": 1995234127,
+                        "IntBit": 31,
+                        "ErrorValue": 4142717775,
+                        "DeltaValue": 2147483648,
+                        "When": "09-29-2021 20:05:48.602807338"
+                    }
+                },
+                {
+                    "IterationNum": 52,
+                    "Data": {
+                        "PreviousValue": 4142717775,
+                        "IntBit": 13,
+                        "ErrorValue": 4142725967,
+                        "DeltaValue": 8192,
+                        "When": "09-29-2021 20:05:48.602808068"
+                    }
+                },
+                {
+                    "IterationNum": 53,
+                    "Data": {
+                        "PreviousValue": 4142725967,
+                        "IntBit": 15,
+                        "ErrorValue": 4142693199,
+                        "DeltaValue": -32768,
+                        "When": "09-29-2021 20:05:48.602808392"
+                    }
+                },
+                {
+                    "IterationNum": 54,
+                    "Data": {
+                        "PreviousValue": 4142693199,
+                        "IntBit": 16,
+                        "ErrorValue": 4142758735,
+                        "DeltaValue": 65536,
+                        "When": "09-29-2021 20:05:48.602808687"
+                    }
+                },
+                {
+                    "IterationNum": 55,
+                    "Data": {
+                        "PreviousValue": 4142758735,
+                        "IntBit": 29,
+                        "ErrorValue": 3605887823,
+                        "DeltaValue": -536870912,
+                        "When": "09-29-2021 20:05:48.602809386"
+                    }
+                },
+                {
+                    "IterationNum": 56,
+                    "Data": {
+                        "PreviousValue": 3605887823,
+                        "IntBit": 16,
+                        "ErrorValue": 3605822287,
+                        "DeltaValue": -65536,
+                        "When": "09-29-2021 20:05:48.602810289"
+                    }
+                },
+                {
+                    "IterationNum": 57,
+                    "Data": {
+                        "PreviousValue": 3605822287,
+                        "IntBit": 17,
+                        "ErrorValue": 3605953359,
+                        "DeltaValue": 131072,
+                        "When": "09-29-2021 20:05:48.602810669"
+                    }
+                },
+                {
+                    "IterationNum": 58,
+                    "Data": {
+                        "PreviousValue": 3605953359,
+                        "IntBit": 22,
+                        "ErrorValue": 3601759055,
+                        "DeltaValue": -4194304,
+                        "When": "09-29-2021 20:05:48.602811104"
+                    }
+                },
+                {
+                    "IterationNum": 59,
+                    "Data": {
+                        "PreviousValue": 3601759055,
+                        "IntBit": 29,
+                        "ErrorValue": 4138629967,
+                        "DeltaValue": 536870912,
+                        "When": "09-29-2021 20:05:48.602811603"
+                    }
+                },
+                {
+                    "IterationNum": 60,
+                    "Data": {
+                        "PreviousValue": 4138629967,
+                        "IntBit": 1,
+                        "ErrorValue": 4138629965,
+                        "DeltaValue": -2,
+                        "When": "09-29-2021 20:05:48.602812009"
+                    }
+                },
+                {
+                    "IterationNum": 61,
+                    "Data": {
+                        "PreviousValue": 4138629965,
+                        "IntBit": 11,
+                        "ErrorValue": 4138627917,
+                        "DeltaValue": -2048,
+                        "When": "09-29-2021 20:05:48.602812589"
+                    }
+                },
+                {
+                    "IterationNum": 62,
+                    "Data": {
+                        "PreviousValue": 4138627917,
+                        "IntBit": 15,
+                        "ErrorValue": 4138660685,
+                        "DeltaValue": 32768,
+                        "When": "09-29-2021 20:05:48.602812983"
+                    }
+                },
+                {
+                    "IterationNum": 63,
+                    "Data": {
+                        "PreviousValue": 4138660685,
+                        "IntBit": 23,
+                        "ErrorValue": 4130272077,
+                        "DeltaValue": -8388608,
+                        "When": "09-29-2021 20:05:48.602813497"
+                    }
+                },
+                {
+                    "IterationNum": 64,
+                    "Data": {
+                        "PreviousValue": 4130272077,
+                        "IntBit": 0,
+                        "ErrorValue": 4130272076,
+                        "DeltaValue": -1,
+                        "When": "09-29-2021 20:05:48.602814068"
+                    }
+                },
+                {
+                    "IterationNum": 65,
+                    "Data": {
+                        "PreviousValue": 4130272076,
+                        "IntBit": 9,
+                        "ErrorValue": 4130271564,
+                        "DeltaValue": -512,
+                        "When": "09-29-2021 20:05:48.602814630"
+                    }
+                },
+                {
+                    "IterationNum": 66,
+                    "Data": {
+                        "PreviousValue": 4130271564,
+                        "IntBit": 30,
+                        "ErrorValue": 3056529740,
+                        "DeltaValue": -1073741824,
+                        "When": "09-29-2021 20:05:48.602815601"
+                    }
+                },
+                {
+                    "IterationNum": 67,
+                    "Data": {
+                        "PreviousValue": 3056529740,
+                        "IntBit": 1,
+                        "ErrorValue": 3056529742,
+                        "DeltaValue": 2,
+                        "When": "09-29-2021 20:05:48.602815961"
+                    }
+                },
+                {
+                    "IterationNum": 68,
+                    "Data": {
+                        "PreviousValue": 3056529742,
+                        "IntBit": 2,
+                        "ErrorValue": 3056529738,
+                        "DeltaValue": -4,
+                        "When": "09-29-2021 20:05:48.602816255"
+                    }
+                },
+                {
+                    "IterationNum": 69,
+                    "Data": {
+                        "PreviousValue": 3056529738,
+                        "IntBit": 13,
+                        "ErrorValue": 3056521546,
+                        "DeltaValue": -8192,
+                        "When": "09-29-2021 20:05:48.602816882"
+                    }
+                },
+                {
+                    "IterationNum": 70,
+                    "Data": {
+                        "PreviousValue": 3056521546,
+                        "IntBit": 24,
+                        "ErrorValue": 3073298762,
+                        "DeltaValue": 16777216,
+                        "When": "09-29-2021 20:05:48.602817524"
+                    }
+                },
+                {
+                    "IterationNum": 71,
+                    "Data": {
+                        "PreviousValue": 3073298762,
+                        "IntBit": 0,
+                        "ErrorValue": 3073298763,
+                        "DeltaValue": 1,
+                        "When": "09-29-2021 20:05:48.602818050"
+                    }
+                },
+                {
+                    "IterationNum": 72,
+                    "Data": {
+                        "PreviousValue": 3073298763,
+                        "IntBit": 0,
+                        "ErrorValue": 3073298762,
+                        "DeltaValue": -1,
+                        "When": "09-29-2021 20:05:48.602819398"
+                    }
+                },
+                {
+                    "IterationNum": 73,
+                    "Data": {
+                        "PreviousValue": 3073298762,
+                        "IntBit": 11,
+                        "ErrorValue": 3073300810,
+                        "DeltaValue": 2048,
+                        "When": "09-29-2021 20:05:48.602820050"
+                    }
+                },
+                {
+                    "IterationNum": 74,
+                    "Data": {
+                        "PreviousValue": 3073300810,
+                        "IntBit": 20,
+                        "ErrorValue": 3074349386,
+                        "DeltaValue": 1048576,
+                        "When": "09-29-2021 20:05:48.602820628"
+                    }
+                },
+                {
+                    "IterationNum": 75,
+                    "Data": {
+                        "PreviousValue": 3074349386,
+                        "IntBit": 22,
+                        "ErrorValue": 3078543690,
+                        "DeltaValue": 4194304,
+                        "When": "09-29-2021 20:05:48.602824288"
+                    }
+                },
+                {
+                    "IterationNum": 76,
+                    "Data": {
+                        "PreviousValue": 3078543690,
+                        "IntBit": 31,
+                        "ErrorValue": 931060042,
+                        "DeltaValue": -2147483648,
+                        "When": "09-29-2021 20:05:48.602824907"
+                    }
+                },
+                {
+                    "IterationNum": 77,
+                    "Data": {
+                        "PreviousValue": 931060042,
+                        "IntBit": 10,
+                        "ErrorValue": 931061066,
+                        "DeltaValue": 1024,
+                        "When": "09-29-2021 20:05:48.602825554"
+                    }
+                },
+                {
+                    "IterationNum": 78,
+                    "Data": {
+                        "PreviousValue": 931061066,
+                        "IntBit": 12,
+                        "ErrorValue": 931056970,
+                        "DeltaValue": -4096,
+                        "When": "09-29-2021 20:05:48.602825889"
+                    }
+                },
+                {
+                    "IterationNum": 79,
+                    "Data": {
+                        "PreviousValue": 931056970,
+                        "IntBit": 21,
+                        "ErrorValue": 928959818,
+                        "DeltaValue": -2097152,
+                        "When": "09-29-2021 20:05:48.602826446"
+                    }
+                },
+                {
+                    "IterationNum": 80,
+                    "Data": {
+                        "PreviousValue": 928959818,
+                        "IntBit": 28,
+                        "ErrorValue": 660524362,
+                        "DeltaValue": -268435456,
+                        "When": "09-29-2021 20:05:48.602828028"
+                    }
+                },
+                {
+                    "IterationNum": 81,
+                    "Data": {
+                        "PreviousValue": 660524362,
+                        "IntBit": 1,
+                        "ErrorValue": 660524360,
+                        "DeltaValue": -2,
+                        "When": "09-29-2021 20:05:48.602828455"
+                    }
+                },
+                {
+                    "IterationNum": 82,
+                    "Data": {
+                        "PreviousValue": 660524360,
+                        "IntBit": 11,
+                        "ErrorValue": 660522312,
+                        "DeltaValue": -2048,
+                        "When": "09-29-2021 20:05:48.602829047"
+                    }
+                },
+                {
+                    "IterationNum": 83,
+                    "Data": {
+                        "PreviousValue": 660522312,
+                        "IntBit": 14,
+                        "ErrorValue": 660505928,
+                        "DeltaValue": -16384,
+                        "When": "09-29-2021 20:05:48.602829405"
+                    }
+                },
+                {
+                    "IterationNum": 84,
+                    "Data": {
+                        "PreviousValue": 660505928,
+                        "IntBit": 21,
+                        "ErrorValue": 662603080,
+                        "DeltaValue": 2097152,
+                        "When": "09-29-2021 20:05:48.602829899"
+                    }
+                },
+                {
+                    "IterationNum": 85,
+                    "Data": {
+                        "PreviousValue": 662603080,
+                        "IntBit": 26,
+                        "ErrorValue": 595494216,
+                        "DeltaValue": -67108864,
+                        "When": "09-29-2021 20:05:48.602830331"
+                    }
+                },
+                {
+                    "IterationNum": 86,
+                    "Data": {
+                        "PreviousValue": 595494216,
+                        "IntBit": 6,
+                        "ErrorValue": 595494152,
+                        "DeltaValue": -64,
+                        "When": "09-29-2021 20:05:48.602831000"
+                    }
+                },
+                {
+                    "IterationNum": 87,
+                    "Data": {
+                        "PreviousValue": 595494152,
+                        "IntBit": 26,
+                        "ErrorValue": 662603016,
+                        "DeltaValue": 67108864,
+                        "When": "09-29-2021 20:05:48.602831950"
+                    }
+                },
+                {
+                    "IterationNum": 88,
+                    "Data": {
+                        "PreviousValue": 662603016,
+                        "IntBit": 8,
+                        "ErrorValue": 662602760,
+                        "DeltaValue": -256,
+                        "When": "09-29-2021 20:05:48.602832680"
+                    }
+                },
+                {
+                    "IterationNum": 89,
+                    "Data": {
+                        "PreviousValue": 662602760,
+                        "IntBit": 13,
+                        "ErrorValue": 662610952,
+                        "DeltaValue": 8192,
+                        "When": "09-29-2021 20:05:48.602833106"
+                    }
+                },
+                {
+                    "IterationNum": 90,
+                    "Data": {
+                        "PreviousValue": 662610952,
+                        "IntBit": 20,
+                        "ErrorValue": 661562376,
+                        "DeltaValue": -1048576,
+                        "When": "09-29-2021 20:05:48.602833606"
+                    }
+                },
+                {
+                    "IterationNum": 91,
+                    "Data": {
+                        "PreviousValue": 661562376,
+                        "IntBit": 23,
+                        "ErrorValue": 669950984,
+                        "DeltaValue": 8388608,
+                        "When": "09-29-2021 20:05:48.602833959"
+                    }
+                },
+                {
+                    "IterationNum": 92,
+                    "Data": {
+                        "PreviousValue": 669950984,
+                        "IntBit": 5,
+                        "ErrorValue": 669951016,
+                        "DeltaValue": 32,
+                        "When": "09-29-2021 20:05:48.602834686"
+                    }
+                },
+                {
+                    "IterationNum": 93,
+                    "Data": {
+                        "PreviousValue": 669951016,
+                        "IntBit": 25,
+                        "ErrorValue": 636396584,
+                        "DeltaValue": -33554432,
+                        "When": "09-29-2021 20:05:48.602835625"
+                    }
+                },
+                {
+                    "IterationNum": 94,
+                    "Data": {
+                        "PreviousValue": 636396584,
+                        "IntBit": 0,
+                        "ErrorValue": 636396585,
+                        "DeltaValue": 1,
+                        "When": "09-29-2021 20:05:48.602836124"
+                    }
+                },
+                {
+                    "IterationNum": 95,
+                    "Data": {
+                        "PreviousValue": 636396585,
+                        "IntBit": 7,
+                        "ErrorValue": 636396713,
+                        "DeltaValue": 128,
+                        "When": "09-29-2021 20:05:48.602836611"
+                    }
+                },
+                {
+                    "IterationNum": 96,
+                    "Data": {
+                        "PreviousValue": 636396713,
+                        "IntBit": 18,
+                        "ErrorValue": 636134569,
+                        "DeltaValue": -262144,
+                        "When": "09-29-2021 20:05:48.602837253"
+                    }
+                },
+                {
+                    "IterationNum": 97,
+                    "Data": {
+                        "PreviousValue": 636134569,
+                        "IntBit": 21,
+                        "ErrorValue": 634037417,
+                        "DeltaValue": -2097152,
+                        "When": "09-29-2021 20:05:48.602837609"
+                    }
+                },
+                {
+                    "IterationNum": 98,
+                    "Data": {
+                        "PreviousValue": 634037417,
+                        "IntBit": 22,
+                        "ErrorValue": 629843113,
+                        "DeltaValue": -4194304,
+                        "When": "09-29-2021 20:05:48.602837915"
+                    }
+                },
+                {
+                    "IterationNum": 99,
+                    "Data": {
+                        "PreviousValue": 629843113,
+                        "IntBit": 6,
+                        "ErrorValue": 629843177,
+                        "DeltaValue": 64,
+                        "When": "09-29-2021 20:05:48.602838711"
+                    }
+                },
+                {
+                    "IterationNum": 100,
+                    "Data": {
+                        "PreviousValue": 629843177,
+                        "IntBit": 14,
+                        "ErrorValue": 629859561,
+                        "DeltaValue": 16384,
+                        "When": "09-29-2021 20:05:48.602839240"
+                    }
+                },
+                {
+                    "IterationNum": 101,
+                    "Data": {
+                        "PreviousValue": 629859561,
+                        "IntBit": 15,
+                        "ErrorValue": 629826793,
+                        "DeltaValue": -32768,
+                        "When": "09-29-2021 20:05:48.602839534"
+                    }
+                },
+                {
+                    "IterationNum": 102,
+                    "Data": {
+                        "PreviousValue": 629826793,
+                        "IntBit": 22,
+                        "ErrorValue": 634021097,
+                        "DeltaValue": 4194304,
+                        "When": "09-29-2021 20:05:48.602840030"
+                    }
+                },
+                {
+                    "IterationNum": 103,
+                    "Data": {
+                        "PreviousValue": 634021097,
+                        "IntBit": 24,
+                        "ErrorValue": 617243881,
+                        "DeltaValue": -16777216,
+                        "When": "09-29-2021 20:05:48.602840348"
+                    }
+                },
+                {
+                    "IterationNum": 104,
+                    "Data": {
+                        "PreviousValue": 617243881,
+                        "IntBit": 5,
+                        "ErrorValue": 617243849,
+                        "DeltaValue": -32,
+                        "When": "09-29-2021 20:05:48.602841047"
+                    }
+                },
+                {
+                    "IterationNum": 105,
+                    "Data": {
+                        "PreviousValue": 617243849,
+                        "IntBit": 6,
+                        "ErrorValue": 617243785,
+                        "DeltaValue": -64,
+                        "When": "09-29-2021 20:05:48.602841345"
+                    }
+                },
+                {
+                    "IterationNum": 106,
+                    "Data": {
+                        "PreviousValue": 617243785,
+                        "IntBit": 7,
+                        "ErrorValue": 617243657,
+                        "DeltaValue": -128,
+                        "When": "09-29-2021 20:05:48.602841645"
+                    }
+                },
+                {
+                    "IterationNum": 107,
+                    "Data": {
+                        "PreviousValue": 617243657,
+                        "IntBit": 20,
+                        "ErrorValue": 618292233,
+                        "DeltaValue": 1048576,
+                        "When": "09-29-2021 20:05:48.602842331"
+                    }
+                },
+                {
+                    "IterationNum": 108,
+                    "Data": {
+                        "PreviousValue": 618292233,
+                        "IntBit": 26,
+                        "ErrorValue": 551183369,
+                        "DeltaValue": -67108864,
+                        "When": "09-29-2021 20:05:48.602842794"
+                    }
+                },
+                {
+                    "IterationNum": 109,
+                    "Data": {
+                        "PreviousValue": 551183369,
+                        "IntBit": 14,
+                        "ErrorValue": 551166985,
+                        "DeltaValue": -16384,
+                        "When": "09-29-2021 20:05:48.602843725"
+                    }
+                },
+                {
+                    "IterationNum": 110,
+                    "Data": {
+                        "PreviousValue": 551166985,
+                        "IntBit": 22,
+                        "ErrorValue": 546972681,
+                        "DeltaValue": -4194304,
+                        "When": "09-29-2021 20:05:48.602844277"
+                    }
+                },
+                {
+                    "IterationNum": 111,
+                    "Data": {
+                        "PreviousValue": 546972681,
+                        "IntBit": 4,
+                        "ErrorValue": 546972697,
+                        "DeltaValue": 16,
+                        "When": "09-29-2021 20:05:48.602845016"
+                    }
+                },
+                {
+                    "IterationNum": 112,
+                    "Data": {
+                        "PreviousValue": 546972697,
+                        "IntBit": 9,
+                        "ErrorValue": 546973209,
+                        "DeltaValue": 512,
+                        "When": "09-29-2021 20:05:48.602845456"
+                    }
+                },
+                {
+                    "IterationNum": 113,
+                    "Data": {
+                        "PreviousValue": 546973209,
+                        "IntBit": 23,
+                        "ErrorValue": 538584601,
+                        "DeltaValue": -8388608,
+                        "When": "09-29-2021 20:05:48.602846186"
+                    }
+                },
+                {
+                    "IterationNum": 114,
+                    "Data": {
+                        "PreviousValue": 538584601,
+                        "IntBit": 29,
+                        "ErrorValue": 1713689,
+                        "DeltaValue": -536870912,
+                        "When": "09-29-2021 20:05:48.602846661"
+                    }
+                },
+                {
+                    "IterationNum": 115,
+                    "Data": {
+                        "PreviousValue": 1713689,
+                        "IntBit": 8,
+                        "ErrorValue": 1713945,
+                        "DeltaValue": 256,
+                        "When": "09-29-2021 20:05:48.602847287"
+                    }
+                },
+                {
+                    "IterationNum": 116,
+                    "Data": {
+                        "PreviousValue": 1713945,
+                        "IntBit": 19,
+                        "ErrorValue": 1189657,
+                        "DeltaValue": -524288,
+                        "When": "09-29-2021 20:05:48.602847919"
+                    }
+                },
+                {
+                    "IterationNum": 117,
+                    "Data": {
+                        "PreviousValue": 1189657,
+                        "IntBit": 16,
+                        "ErrorValue": 1255193,
+                        "DeltaValue": 65536,
+                        "When": "09-29-2021 20:05:48.602849150"
+                    }
+                },
+                {
+                    "IterationNum": 118,
+                    "Data": {
+                        "PreviousValue": 1255193,
+                        "IntBit": 30,
+                        "ErrorValue": 1074997017,
+                        "DeltaValue": 1073741824,
+                        "When": "09-29-2021 20:05:48.602849891"
+                    }
+                },
+                {
+                    "IterationNum": 119,
+                    "Data": {
+                        "PreviousValue": 1074997017,
+                        "IntBit": 5,
+                        "ErrorValue": 1074997049,
+                        "DeltaValue": 32,
+                        "When": "09-29-2021 20:05:48.602850381"
+                    }
+                },
+                {
+                    "IterationNum": 120,
+                    "Data": {
+                        "PreviousValue": 1074997049,
+                        "IntBit": 12,
+                        "ErrorValue": 1075001145,
+                        "DeltaValue": 4096,
+                        "When": "09-29-2021 20:05:48.602850882"
+                    }
+                },
+                {
+                    "IterationNum": 121,
+                    "Data": {
+                        "PreviousValue": 1075001145,
+                        "IntBit": 13,
+                        "ErrorValue": 1074992953,
+                        "DeltaValue": -8192,
+                        "When": "09-29-2021 20:05:48.602851249"
+                    }
+                },
+                {
+                    "IterationNum": 122,
+                    "Data": {
+                        "PreviousValue": 1074992953,
+                        "IntBit": 8,
+                        "ErrorValue": 1074992697,
+                        "DeltaValue": -256,
+                        "When": "09-29-2021 20:05:48.602853506"
+                    }
+                },
+                {
+                    "IterationNum": 123,
+                    "Data": {
+                        "PreviousValue": 1074992697,
+                        "IntBit": 14,
+                        "ErrorValue": 1075009081,
+                        "DeltaValue": 16384,
+                        "When": "09-29-2021 20:05:48.602853989"
+                    }
+                },
+                {
+                    "IterationNum": 124,
+                    "Data": {
+                        "PreviousValue": 1075009081,
+                        "IntBit": 22,
+                        "ErrorValue": 1079203385,
+                        "DeltaValue": 4194304,
+                        "When": "09-29-2021 20:05:48.602854519"
+                    }
+                },
+                {
+                    "IterationNum": 125,
+                    "Data": {
+                        "PreviousValue": 1079203385,
+                        "IntBit": 24,
+                        "ErrorValue": 1095980601,
+                        "DeltaValue": 16777216,
+                        "When": "09-29-2021 20:05:48.602854851"
+                    }
+                },
+                {
+                    "IterationNum": 126,
+                    "Data": {
+                        "PreviousValue": 1095980601,
+                        "IntBit": 0,
+                        "ErrorValue": 1095980600,
+                        "DeltaValue": -1,
+                        "When": "09-29-2021 20:05:48.602855379"
+                    }
+                },
+                {
+                    "IterationNum": 127,
+                    "Data": {
+                        "PreviousValue": 1095980600,
+                        "IntBit": 15,
+                        "ErrorValue": 1096013368,
+                        "DeltaValue": 32768,
+                        "When": "09-29-2021 20:05:48.602856145"
+                    }
+                },
+                {
+                    "IterationNum": 128,
+                    "Data": {
+                        "PreviousValue": 1096013368,
+                        "IntBit": 27,
+                        "ErrorValue": 1230231096,
+                        "DeltaValue": 134217728,
+                        "When": "09-29-2021 20:05:48.602856821"
+                    }
+                },
+                {
+                    "IterationNum": 129,
+                    "Data": {
+                        "PreviousValue": 1230231096,
+                        "IntBit": 8,
+                        "ErrorValue": 1230231352,
+                        "DeltaValue": 256,
+                        "When": "09-29-2021 20:05:48.602857511"
+                    }
+                },
+                {
+                    "IterationNum": 130,
+                    "Data": {
+                        "PreviousValue": 1230231352,
+                        "IntBit": 9,
+                        "ErrorValue": 1230230840,
+                        "DeltaValue": -512,
+                        "When": "09-29-2021 20:05:48.602857798"
+                    }
+                },
+                {
+                    "IterationNum": 131,
+                    "Data": {
+                        "PreviousValue": 1230230840,
+                        "IntBit": 14,
+                        "ErrorValue": 1230214456,
+                        "DeltaValue": -16384,
+                        "When": "09-29-2021 20:05:48.602858232"
+                    }
+                },
+                {
+                    "IterationNum": 132,
+                    "Data": {
+                        "PreviousValue": 1230214456,
+                        "IntBit": 1,
+                        "ErrorValue": 1230214458,
+                        "DeltaValue": 2,
+                        "When": "09-29-2021 20:05:48.602859128"
+                    }
+                },
+                {
+                    "IterationNum": 133,
+                    "Data": {
+                        "PreviousValue": 1230214458,
+                        "IntBit": 20,
+                        "ErrorValue": 1229165882,
+                        "DeltaValue": -1048576,
+                        "When": "09-29-2021 20:05:48.602860031"
+                    }
+                },
+                {
+                    "IterationNum": 134,
+                    "Data": {
+                        "PreviousValue": 1229165882,
+                        "IntBit": 1,
+                        "ErrorValue": 1229165880,
+                        "DeltaValue": -2,
+                        "When": "09-29-2021 20:05:48.602860730"
+                    }
+                },
+                {
+                    "IterationNum": 135,
+                    "Data": {
+                        "PreviousValue": 1229165880,
+                        "IntBit": 1,
+                        "ErrorValue": 1229165882,
+                        "DeltaValue": 2,
+                        "When": "09-29-2021 20:05:48.602862065"
+                    }
+                },
+                {
+                    "IterationNum": 136,
+                    "Data": {
+                        "PreviousValue": 1229165882,
+                        "IntBit": 8,
+                        "ErrorValue": 1229165626,
+                        "DeltaValue": -256,
+                        "When": "09-29-2021 20:05:48.602862575"
+                    }
+                },
+                {
+                    "IterationNum": 137,
+                    "Data": {
+                        "PreviousValue": 1229165626,
+                        "IntBit": 10,
+                        "ErrorValue": 1229164602,
+                        "DeltaValue": -1024,
+                        "When": "09-29-2021 20:05:48.602862899"
+                    }
+                },
+                {
+                    "IterationNum": 138,
+                    "Data": {
+                        "PreviousValue": 1229164602,
+                        "IntBit": 19,
+                        "ErrorValue": 1229688890,
+                        "DeltaValue": 524288,
+                        "When": "09-29-2021 20:05:48.602863460"
+                    }
+                },
+                {
+                    "IterationNum": 139,
+                    "Data": {
+                        "PreviousValue": 1229688890,
+                        "IntBit": 28,
+                        "ErrorValue": 1498124346,
+                        "DeltaValue": 268435456,
+                        "When": "09-29-2021 20:05:48.602864026"
+                    }
+                },
+                {
+                    "IterationNum": 140,
+                    "Data": {
+                        "PreviousValue": 1498124346,
+                        "IntBit": 16,
+                        "ErrorValue": 1498058810,
+                        "DeltaValue": -65536,
+                        "When": "09-29-2021 20:05:48.602864952"
+                    }
+                },
+                {
+                    "IterationNum": 141,
+                    "Data": {
+                        "PreviousValue": 1498058810,
+                        "IntBit": 22,
+                        "ErrorValue": 1493864506,
+                        "DeltaValue": -4194304,
+                        "When": "09-29-2021 20:05:48.602865440"
+                    }
+                },
+                {
+                    "IterationNum": 142,
+                    "Data": {
+                        "PreviousValue": 1493864506,
+                        "IntBit": 26,
+                        "ErrorValue": 1560973370,
+                        "DeltaValue": 67108864,
+                        "When": "09-29-2021 20:05:48.602865842"
+                    }
+                },
+                {
+                    "IterationNum": 143,
+                    "Data": {
+                        "PreviousValue": 1560973370,
+                        "IntBit": 2,
+                        "ErrorValue": 1560973374,
+                        "DeltaValue": 4,
+                        "When": "09-29-2021 20:05:48.602867442"
+                    }
+                },
+                {
+                    "IterationNum": 144,
+                    "Data": {
+                        "PreviousValue": 1560973374,
+                        "IntBit": 8,
+                        "ErrorValue": 1560973630,
+                        "DeltaValue": 256,
+                        "When": "09-29-2021 20:05:48.602867896"
+                    }
+                },
+                {
+                    "IterationNum": 145,
+                    "Data": {
+                        "PreviousValue": 1560973630,
+                        "IntBit": 13,
+                        "ErrorValue": 1560981822,
+                        "DeltaValue": 8192,
+                        "When": "09-29-2021 20:05:48.602868325"
+                    }
+                },
+                {
+                    "IterationNum": 146,
+                    "Data": {
+                        "PreviousValue": 1560981822,
+                        "IntBit": 16,
+                        "ErrorValue": 1561047358,
+                        "DeltaValue": 65536,
+                        "When": "09-29-2021 20:05:48.602868684"
+                    }
+                },
+                {
+                    "IterationNum": 147,
+                    "Data": {
+                        "PreviousValue": 1561047358,
+                        "IntBit": 12,
+                        "ErrorValue": 1561043262,
+                        "DeltaValue": -4096,
+                        "When": "09-29-2021 20:05:48.602869883"
+                    }
+                },
+                {
+                    "IterationNum": 148,
+                    "Data": {
+                        "PreviousValue": 1561043262,
+                        "IntBit": 24,
+                        "ErrorValue": 1544266046,
+                        "DeltaValue": -16777216,
+                        "When": "09-29-2021 20:05:48.602876390"
+                    }
+                },
+                {
+                    "IterationNum": 149,
+                    "Data": {
+                        "PreviousValue": 1544266046,
+                        "IntBit": 28,
+                        "ErrorValue": 1275830590,
+                        "DeltaValue": -268435456,
+                        "When": "09-29-2021 20:05:48.602876856"
+                    }
+                },
+                {
+                    "IterationNum": 150,
+                    "Data": {
+                        "PreviousValue": 1275830590,
+                        "IntBit": 2,
+                        "ErrorValue": 1275830586,
+                        "DeltaValue": -4,
+                        "When": "09-29-2021 20:05:48.602877351"
+                    }
+                },
+                {
+                    "IterationNum": 151,
+                    "Data": {
+                        "PreviousValue": 1275830586,
+                        "IntBit": 4,
+                        "ErrorValue": 1275830570,
+                        "DeltaValue": -16,
+                        "When": "09-29-2021 20:05:48.602877686"
+                    }
+                },
+                {
+                    "IterationNum": 152,
+                    "Data": {
+                        "PreviousValue": 1275830570,
+                        "IntBit": 5,
+                        "ErrorValue": 1275830538,
+                        "DeltaValue": -32,
+                        "When": "09-29-2021 20:05:48.602877989"
+                    }
+                },
+                {
+                    "IterationNum": 153,
+                    "Data": {
+                        "PreviousValue": 1275830538,
+                        "IntBit": 7,
+                        "ErrorValue": 1275830666,
+                        "DeltaValue": 128,
+                        "When": "09-29-2021 20:05:48.602878306"
+                    }
+                },
+                {
+                    "IterationNum": 154,
+                    "Data": {
+                        "PreviousValue": 1275830666,
+                        "IntBit": 20,
+                        "ErrorValue": 1276879242,
+                        "DeltaValue": 1048576,
+                        "When": "09-29-2021 20:05:48.602879001"
+                    }
+                },
+                {
+                    "IterationNum": 155,
+                    "Data": {
+                        "PreviousValue": 1276879242,
+                        "IntBit": 21,
+                        "ErrorValue": 1278976394,
+                        "DeltaValue": 2097152,
+                        "When": "09-29-2021 20:05:48.602879299"
+                    }
+                },
+                {
+                    "IterationNum": 156,
+                    "Data": {
+                        "PreviousValue": 1278976394,
+                        "IntBit": 12,
+                        "ErrorValue": 1278980490,
+                        "DeltaValue": 4096,
+                        "When": "09-29-2021 20:05:48.602880323"
+                    }
+                },
+                {
+                    "IterationNum": 157,
+                    "Data": {
+                        "PreviousValue": 1278980490,
+                        "IntBit": 0,
+                        "ErrorValue": 1278980491,
+                        "DeltaValue": 1,
+                        "When": "09-29-2021 20:05:48.602881262"
+                    }
+                },
+                {
+                    "IterationNum": 158,
+                    "Data": {
+                        "PreviousValue": 1278980491,
+                        "IntBit": 1,
+                        "ErrorValue": 1278980489,
+                        "DeltaValue": -2,
+                        "When": "09-29-2021 20:05:48.602881557"
+                    }
+                },
+                {
+                    "IterationNum": 159,
+                    "Data": {
+                        "PreviousValue": 1278980489,
+                        "IntBit": 5,
+                        "ErrorValue": 1278980521,
+                        "DeltaValue": 32,
+                        "When": "09-29-2021 20:05:48.602881944"
+                    }
+                },
+                {
+                    "IterationNum": 160,
+                    "Data": {
+                        "PreviousValue": 1278980521,
+                        "IntBit": 0,
+                        "ErrorValue": 1278980520,
+                        "DeltaValue": -1,
+                        "When": "09-29-2021 20:05:48.602883116"
+                    }
+                },
+                {
+                    "IterationNum": 161,
+                    "Data": {
+                        "PreviousValue": 1278980520,
+                        "IntBit": 1,
+                        "ErrorValue": 1278980522,
+                        "DeltaValue": 2,
+                        "When": "09-29-2021 20:05:48.602883416"
+                    }
+                },
+                {
+                    "IterationNum": 162,
+                    "Data": {
+                        "PreviousValue": 1278980522,
+                        "IntBit": 25,
+                        "ErrorValue": 1312534954,
+                        "DeltaValue": 33554432,
+                        "When": "09-29-2021 20:05:48.602884478"
+                    }
+                },
+                {
+                    "IterationNum": 163,
+                    "Data": {
+                        "PreviousValue": 1312534954,
+                        "IntBit": 26,
+                        "ErrorValue": 1245426090,
+                        "DeltaValue": -67108864,
+                        "When": "09-29-2021 20:05:48.602884777"
+                    }
+                },
+                {
+                    "IterationNum": 164,
+                    "Data": {
+                        "PreviousValue": 1245426090,
+                        "IntBit": 28,
+                        "ErrorValue": 1513861546,
+                        "DeltaValue": 268435456,
+                        "When": "09-29-2021 20:05:48.602885127"
+                    }
+                },
+                {
+                    "IterationNum": 165,
+                    "Data": {
+                        "PreviousValue": 1513861546,
+                        "IntBit": 3,
+                        "ErrorValue": 1513861538,
+                        "DeltaValue": -8,
+                        "When": "09-29-2021 20:05:48.602885627"
+                    }
+                },
+                {
+                    "IterationNum": 166,
+                    "Data": {
+                        "PreviousValue": 1513861538,
+                        "IntBit": 5,
+                        "ErrorValue": 1513861506,
+                        "DeltaValue": -32,
+                        "When": "09-29-2021 20:05:48.602885972"
+                    }
+                },
+                {
+                    "IterationNum": 167,
+                    "Data": {
+                        "PreviousValue": 1513861506,
+                        "IntBit": 7,
+                        "ErrorValue": 1513861378,
+                        "DeltaValue": -128,
+                        "When": "09-29-2021 20:05:48.602886300"
+                    }
+                },
+                {
+                    "IterationNum": 168,
+                    "Data": {
+                        "PreviousValue": 1513861378,
+                        "IntBit": 11,
+                        "ErrorValue": 1513863426,
+                        "DeltaValue": 2048,
+                        "When": "09-29-2021 20:05:48.602886706"
+                    }
+                },
+                {
+                    "IterationNum": 169,
+                    "Data": {
+                        "PreviousValue": 1513863426,
+                        "IntBit": 28,
+                        "ErrorValue": 1245427970,
+                        "DeltaValue": -268435456,
+                        "When": "09-29-2021 20:05:48.602887542"
+                    }
+                },
+                {
+                    "IterationNum": 170,
+                    "Data": {
+                        "PreviousValue": 1245427970,
+                        "IntBit": 6,
+                        "ErrorValue": 1245428034,
+                        "DeltaValue": 64,
+                        "When": "09-29-2021 20:05:48.602888143"
+                    }
+                },
+                {
+                    "IterationNum": 171,
+                    "Data": {
+                        "PreviousValue": 1245428034,
+                        "IntBit": 22,
+                        "ErrorValue": 1249622338,
+                        "DeltaValue": 4194304,
+                        "When": "09-29-2021 20:05:48.602888937"
+                    }
+                },
+                {
+                    "IterationNum": 172,
+                    "Data": {
+                        "PreviousValue": 1249622338,
+                        "IntBit": 2,
+                        "ErrorValue": 1249622342,
+                        "DeltaValue": 4,
+                        "When": "09-29-2021 20:05:48.602889600"
+                    }
+                },
+                {
+                    "IterationNum": 173,
+                    "Data": {
+                        "PreviousValue": 1249622342,
+                        "IntBit": 7,
+                        "ErrorValue": 1249622470,
+                        "DeltaValue": 128,
+                        "When": "09-29-2021 20:05:48.602890034"
+                    }
+                },
+                {
+                    "IterationNum": 174,
+                    "Data": {
+                        "PreviousValue": 1249622470,
+                        "IntBit": 19,
+                        "ErrorValue": 1249098182,
+                        "DeltaValue": -524288,
+                        "When": "09-29-2021 20:05:48.602890697"
+                    }
+                },
+                {
+                    "IterationNum": 175,
+                    "Data": {
+                        "PreviousValue": 1249098182,
+                        "IntBit": 2,
+                        "ErrorValue": 1249098178,
+                        "DeltaValue": -4,
+                        "When": "09-29-2021 20:05:48.602891454"
+                    }
+                },
+                {
+                    "IterationNum": 176,
+                    "Data": {
+                        "PreviousValue": 1249098178,
+                        "IntBit": 4,
+                        "ErrorValue": 1249098194,
+                        "DeltaValue": 16,
+                        "When": "09-29-2021 20:05:48.602891784"
+                    }
+                },
+                {
+                    "IterationNum": 177,
+                    "Data": {
+                        "PreviousValue": 1249098194,
+                        "IntBit": 5,
+                        "ErrorValue": 1249098226,
+                        "DeltaValue": 32,
+                        "When": "09-29-2021 20:05:48.602892069"
+                    }
+                },
+                {
+                    "IterationNum": 178,
+                    "Data": {
+                        "PreviousValue": 1249098226,
+                        "IntBit": 11,
+                        "ErrorValue": 1249096178,
+                        "DeltaValue": -2048,
+                        "When": "09-29-2021 20:05:48.602892562"
+                    }
+                },
+                {
+                    "IterationNum": 179,
+                    "Data": {
+                        "PreviousValue": 1249096178,
+                        "IntBit": 13,
+                        "ErrorValue": 1249087986,
+                        "DeltaValue": -8192,
+                        "When": "09-29-2021 20:05:48.602892886"
+                    }
+                },
+                {
+                    "IterationNum": 180,
+                    "Data": {
+                        "PreviousValue": 1249087986,
+                        "IntBit": 30,
+                        "ErrorValue": 175346162,
+                        "DeltaValue": -1073741824,
+                        "When": "09-29-2021 20:05:48.602893724"
+                    }
+                },
+                {
+                    "IterationNum": 181,
+                    "Data": {
+                        "PreviousValue": 175346162,
+                        "IntBit": 3,
+                        "ErrorValue": 175346170,
+                        "DeltaValue": 8,
+                        "When": "09-29-2021 20:05:48.602894161"
+                    }
+                },
+                {
+                    "IterationNum": 182,
+                    "Data": {
+                        "PreviousValue": 175346170,
+                        "IntBit": 15,
+                        "ErrorValue": 175313402,
+                        "DeltaValue": -32768,
+                        "When": "09-29-2021 20:05:48.602894827"
+                    }
+                },
+                {
+                    "IterationNum": 183,
+                    "Data": {
+                        "PreviousValue": 175313402,
+                        "IntBit": 23,
+                        "ErrorValue": 183702010,
+                        "DeltaValue": 8388608,
+                        "When": "09-29-2021 20:05:48.602895357"
+                    }
+                },
+                {
+                    "IterationNum": 184,
+                    "Data": {
+                        "PreviousValue": 183702010,
+                        "IntBit": 25,
+                        "ErrorValue": 150147578,
+                        "DeltaValue": -33554432,
+                        "When": "09-29-2021 20:05:48.602895685"
+                    }
+                },
+                {
+                    "IterationNum": 185,
+                    "Data": {
+                        "PreviousValue": 150147578,
+                        "IntBit": 5,
+                        "ErrorValue": 150147546,
+                        "DeltaValue": -32,
+                        "When": "09-29-2021 20:05:48.602896370"
+                    }
+                },
+                {
+                    "IterationNum": 186,
+                    "Data": {
+                        "PreviousValue": 150147546,
+                        "IntBit": 22,
+                        "ErrorValue": 145953242,
+                        "DeltaValue": -4194304,
+                        "When": "09-29-2021 20:05:48.602897198"
+                    }
+                },
+                {
+                    "IterationNum": 187,
+                    "Data": {
+                        "PreviousValue": 145953242,
+                        "IntBit": 6,
+                        "ErrorValue": 145953178,
+                        "DeltaValue": -64,
+                        "When": "09-29-2021 20:05:48.602897994"
+                    }
+                },
+                {
+                    "IterationNum": 188,
+                    "Data": {
+                        "PreviousValue": 145953178,
+                        "IntBit": 9,
+                        "ErrorValue": 145953690,
+                        "DeltaValue": 512,
+                        "When": "09-29-2021 20:05:48.602898362"
+                    }
+                },
+                {
+                    "IterationNum": 189,
+                    "Data": {
+                        "PreviousValue": 145953690,
+                        "IntBit": 21,
+                        "ErrorValue": 143856538,
+                        "DeltaValue": -2097152,
+                        "When": "09-29-2021 20:05:48.602899021"
+                    }
+                },
+                {
+                    "IterationNum": 190,
+                    "Data": {
+                        "PreviousValue": 143856538,
+                        "IntBit": 1,
+                        "ErrorValue": 143856536,
+                        "DeltaValue": -2,
+                        "When": "09-29-2021 20:05:48.602899688"
+                    }
+                },
+                {
+                    "IterationNum": 191,
+                    "Data": {
+                        "PreviousValue": 143856536,
+                        "IntBit": 3,
+                        "ErrorValue": 143856528,
+                        "DeltaValue": -8,
+                        "When": "09-29-2021 20:05:48.602900023"
+                    }
+                },
+                {
+                    "IterationNum": 192,
+                    "Data": {
+                        "PreviousValue": 143856528,
+                        "IntBit": 7,
+                        "ErrorValue": 143856400,
+                        "DeltaValue": -128,
+                        "When": "09-29-2021 20:05:48.602900420"
+                    }
+                },
+                {
+                    "IterationNum": 193,
+                    "Data": {
+                        "PreviousValue": 143856400,
+                        "IntBit": 12,
+                        "ErrorValue": 143852304,
+                        "DeltaValue": -4096,
+                        "When": "09-29-2021 20:05:48.602900836"
+                    }
+                },
+                {
+                    "IterationNum": 194,
+                    "Data": {
+                        "PreviousValue": 143852304,
+                        "IntBit": 0,
+                        "ErrorValue": 143852305,
+                        "DeltaValue": 1,
+                        "When": "09-29-2021 20:05:48.602901772"
+                    }
+                },
+                {
+                    "IterationNum": 195,
+                    "Data": {
+                        "PreviousValue": 143852305,
+                        "IntBit": 28,
+                        "ErrorValue": 412287761,
+                        "DeltaValue": 268435456,
+                        "When": "09-29-2021 20:05:48.602902973"
+                    }
+                },
+                {
+                    "IterationNum": 196,
+                    "Data": {
+                        "PreviousValue": 412287761,
+                        "IntBit": 29,
+                        "ErrorValue": 949158673,
+                        "DeltaValue": 536870912,
+                        "When": "09-29-2021 20:05:48.602903270"
+                    }
+                },
+                {
+                    "IterationNum": 197,
+                    "Data": {
+                        "PreviousValue": 949158673,
+                        "IntBit": 1,
+                        "ErrorValue": 949158675,
+                        "DeltaValue": 2,
+                        "When": "09-29-2021 20:05:48.602903659"
+                    }
+                },
+                {
+                    "IterationNum": 198,
+                    "Data": {
+                        "PreviousValue": 949158675,
+                        "IntBit": 2,
+                        "ErrorValue": 949158679,
+                        "DeltaValue": 4,
+                        "When": "09-29-2021 20:05:48.602903956"
+                    }
+                },
+                {
+                    "IterationNum": 199,
+                    "Data": {
+                        "PreviousValue": 949158679,
+                        "IntBit": 9,
+                        "ErrorValue": 949158167,
+                        "DeltaValue": -512,
+                        "When": "09-29-2021 20:05:48.602904438"
+                    }
+                },
+                {
+                    "IterationNum": 200,
+                    "Data": {
+                        "PreviousValue": 949158167,
+                        "IntBit": 18,
+                        "ErrorValue": 949420311,
+                        "DeltaValue": 262144,
+                        "When": "09-29-2021 20:05:48.602905009"
+                    }
+                },
+                {
+                    "IterationNum": 201,
+                    "Data": {
+                        "PreviousValue": 949420311,
+                        "IntBit": 19,
+                        "ErrorValue": 949944599,
+                        "DeltaValue": 524288,
+                        "When": "09-29-2021 20:05:48.602905301"
+                    }
+                },
+                {
+                    "IterationNum": 202,
+                    "Data": {
+                        "PreviousValue": 949944599,
+                        "IntBit": 25,
+                        "ErrorValue": 983499031,
+                        "DeltaValue": 33554432,
+                        "When": "09-29-2021 20:05:48.602905766"
+                    }
+                },
+                {
+                    "IterationNum": 203,
+                    "Data": {
+                        "PreviousValue": 983499031,
+                        "IntBit": 4,
+                        "ErrorValue": 983499015,
+                        "DeltaValue": -16,
+                        "When": "09-29-2021 20:05:48.602906389"
+                    }
+                },
+                {
+                    "IterationNum": 204,
+                    "Data": {
+                        "PreviousValue": 983499015,
+                        "IntBit": 8,
+                        "ErrorValue": 983498759,
+                        "DeltaValue": -256,
+                        "When": "09-29-2021 20:05:48.602906789"
+                    }
+                },
+                {
+                    "IterationNum": 205,
+                    "Data": {
+                        "PreviousValue": 983498759,
+                        "IntBit": 12,
+                        "ErrorValue": 983502855,
+                        "DeltaValue": 4096,
+                        "When": "09-29-2021 20:05:48.602907185"
+                    }
+                },
+                {
+                    "IterationNum": 206,
+                    "Data": {
+                        "PreviousValue": 983502855,
+                        "IntBit": 13,
+                        "ErrorValue": 983511047,
+                        "DeltaValue": 8192,
+                        "When": "09-29-2021 20:05:48.602907468"
+                    }
+                },
+                {
+                    "IterationNum": 207,
+                    "Data": {
+                        "PreviousValue": 983511047,
+                        "IntBit": 17,
+                        "ErrorValue": 983379975,
+                        "DeltaValue": -131072,
+                        "When": "09-29-2021 20:05:48.602907864"
+                    }
+                },
+                {
+                    "IterationNum": 208,
+                    "Data": {
+                        "PreviousValue": 983379975,
+                        "IntBit": 13,
+                        "ErrorValue": 983371783,
+                        "DeltaValue": -8192,
+                        "When": "09-29-2021 20:05:48.602909070"
+                    }
+                },
+                {
+                    "IterationNum": 209,
+                    "Data": {
+                        "PreviousValue": 983371783,
+                        "IntBit": 22,
+                        "ErrorValue": 987566087,
+                        "DeltaValue": 4194304,
+                        "When": "09-29-2021 20:05:48.602909637"
+                    }
+                },
+                {
+                    "IterationNum": 210,
+                    "Data": {
+                        "PreviousValue": 987566087,
+                        "IntBit": 23,
+                        "ErrorValue": 979177479,
+                        "DeltaValue": -8388608,
+                        "When": "09-29-2021 20:05:48.602909931"
+                    }
+                },
+                {
+                    "IterationNum": 211,
+                    "Data": {
+                        "PreviousValue": 979177479,
+                        "IntBit": 27,
+                        "ErrorValue": 844959751,
+                        "DeltaValue": -134217728,
+                        "When": "09-29-2021 20:05:48.602910326"
+                    }
+                },
+                {
+                    "IterationNum": 212,
+                    "Data": {
+                        "PreviousValue": 844959751,
+                        "IntBit": 3,
+                        "ErrorValue": 844959759,
+                        "DeltaValue": 8,
+                        "When": "09-29-2021 20:05:48.602910846"
+                    }
+                },
+                {
+                    "IterationNum": 213,
+                    "Data": {
+                        "PreviousValue": 844959759,
+                        "IntBit": 16,
+                        "ErrorValue": 844894223,
+                        "DeltaValue": -65536,
+                        "When": "09-29-2021 20:05:48.602911532"
+                    }
+                },
+                {
+                    "IterationNum": 214,
+                    "Data": {
+                        "PreviousValue": 844894223,
+                        "IntBit": 16,
+                        "ErrorValue": 844959759,
+                        "DeltaValue": 65536,
+                        "When": "09-29-2021 20:05:48.602912864"
+                    }
+                },
+                {
+                    "IterationNum": 215,
+                    "Data": {
+                        "PreviousValue": 844959759,
+                        "IntBit": 18,
+                        "ErrorValue": 844697615,
+                        "DeltaValue": -262144,
+                        "When": "09-29-2021 20:05:48.602913199"
+                    }
+                },
+                {
+                    "IterationNum": 216,
+                    "Data": {
+                        "PreviousValue": 844697615,
+                        "IntBit": 19,
+                        "ErrorValue": 844173327,
+                        "DeltaValue": -524288,
+                        "When": "09-29-2021 20:05:48.602913497"
+                    }
+                },
+                {
+                    "IterationNum": 217,
+                    "Data": {
+                        "PreviousValue": 844173327,
+                        "IntBit": 20,
+                        "ErrorValue": 843124751,
+                        "DeltaValue": -1048576,
+                        "When": "09-29-2021 20:05:48.602913800"
+                    }
+                },
+                {
+                    "IterationNum": 218,
+                    "Data": {
+                        "PreviousValue": 843124751,
+                        "IntBit": 18,
+                        "ErrorValue": 843386895,
+                        "DeltaValue": 262144,
+                        "When": "09-29-2021 20:05:48.602915063"
+                    }
+                },
+                {
+                    "IterationNum": 219,
+                    "Data": {
+                        "PreviousValue": 843386895,
+                        "IntBit": 1,
+                        "ErrorValue": 843386893,
+                        "DeltaValue": -2,
+                        "When": "09-29-2021 20:05:48.602915827"
+                    }
+                },
+                {
+                    "IterationNum": 220,
+                    "Data": {
+                        "PreviousValue": 843386893,
+                        "IntBit": 4,
+                        "ErrorValue": 843386909,
+                        "DeltaValue": 16,
+                        "When": "09-29-2021 20:05:48.602916206"
+                    }
+                },
+                {
+                    "IterationNum": 221,
+                    "Data": {
+                        "PreviousValue": 843386909,
+                        "IntBit": 26,
+                        "ErrorValue": 910495773,
+                        "DeltaValue": 67108864,
+                        "When": "09-29-2021 20:05:48.602918335"
+                    }
+                },
+                {
+                    "IterationNum": 222,
+                    "Data": {
+                        "PreviousValue": 910495773,
+                        "IntBit": 27,
+                        "ErrorValue": 1044713501,
+                        "DeltaValue": 134217728,
+                        "When": "09-29-2021 20:05:48.602918665"
+                    }
+                },
+                {
+                    "IterationNum": 223,
+                    "Data": {
+                        "PreviousValue": 1044713501,
+                        "IntBit": 0,
+                        "ErrorValue": 1044713500,
+                        "DeltaValue": -1,
+                        "When": "09-29-2021 20:05:48.602919094"
+                    }
+                },
+                {
+                    "IterationNum": 224,
+                    "Data": {
+                        "PreviousValue": 1044713500,
+                        "IntBit": 18,
+                        "ErrorValue": 1044451356,
+                        "DeltaValue": -262144,
+                        "When": "09-29-2021 20:05:48.602919961"
+                    }
+                },
+                {
+                    "IterationNum": 225,
+                    "Data": {
+                        "PreviousValue": 1044451356,
+                        "IntBit": 8,
+                        "ErrorValue": 1044451612,
+                        "DeltaValue": 256,
+                        "When": "09-29-2021 20:05:48.602920964"
+                    }
+                },
+                {
+                    "IterationNum": 226,
+                    "Data": {
+                        "PreviousValue": 1044451612,
+                        "IntBit": 18,
+                        "ErrorValue": 1044713756,
+                        "DeltaValue": 262144,
+                        "When": "09-29-2021 20:05:48.602921567"
+                    }
+                },
+                {
+                    "IterationNum": 227,
+                    "Data": {
+                        "PreviousValue": 1044713756,
+                        "IntBit": 13,
+                        "ErrorValue": 1044721948,
+                        "DeltaValue": 8192,
+                        "When": "09-29-2021 20:05:48.602922737"
+                    }
+                },
+                {
+                    "IterationNum": 228,
+                    "Data": {
+                        "PreviousValue": 1044721948,
+                        "IntBit": 18,
+                        "ErrorValue": 1044459804,
+                        "DeltaValue": -262144,
+                        "When": "09-29-2021 20:05:48.602923165"
+                    }
+                },
+                {
+                    "IterationNum": 229,
+                    "Data": {
+                        "PreviousValue": 1044459804,
+                        "IntBit": 13,
+                        "ErrorValue": 1044451612,
+                        "DeltaValue": -8192,
+                        "When": "09-29-2021 20:05:48.602924320"
+                    }
+                },
+                {
+                    "IterationNum": 230,
+                    "Data": {
+                        "PreviousValue": 1044451612,
+                        "IntBit": 0,
+                        "ErrorValue": 1044451613,
+                        "DeltaValue": 1,
+                        "When": "09-29-2021 20:05:48.602925216"
+                    }
+                },
+                {
+                    "IterationNum": 231,
+                    "Data": {
+                        "PreviousValue": 1044451613,
+                        "IntBit": 9,
+                        "ErrorValue": 1044452125,
+                        "DeltaValue": 512,
+                        "When": "09-29-2021 20:05:48.602925766"
+                    }
+                },
+                {
+                    "IterationNum": 232,
+                    "Data": {
+                        "PreviousValue": 1044452125,
+                        "IntBit": 1,
+                        "ErrorValue": 1044452127,
+                        "DeltaValue": 2,
+                        "When": "09-29-2021 20:05:48.602926837"
+                    }
+                },
+                {
+                    "IterationNum": 233,
+                    "Data": {
+                        "PreviousValue": 1044452127,
+                        "IntBit": 14,
+                        "ErrorValue": 1044468511,
+                        "DeltaValue": 16384,
+                        "When": "09-29-2021 20:05:48.602927534"
+                    }
+                },
+                {
+                    "IterationNum": 234,
+                    "Data": {
+                        "PreviousValue": 1044468511,
+                        "IntBit": 15,
+                        "ErrorValue": 1044501279,
+                        "DeltaValue": 32768,
+                        "When": "09-29-2021 20:05:48.602927835"
+                    }
+                },
+                {
+                    "IterationNum": 235,
+                    "Data": {
+                        "PreviousValue": 1044501279,
+                        "IntBit": 17,
+                        "ErrorValue": 1044632351,
+                        "DeltaValue": 131072,
+                        "When": "09-29-2021 20:05:48.602928163"
+                    }
+                },
+                {
+                    "IterationNum": 236,
+                    "Data": {
+                        "PreviousValue": 1044632351,
+                        "IntBit": 23,
+                        "ErrorValue": 1053020959,
+                        "DeltaValue": 8388608,
+                        "When": "09-29-2021 20:05:48.602928621"
+                    }
+                },
+                {
+                    "IterationNum": 237,
+                    "Data": {
+                        "PreviousValue": 1053020959,
+                        "IntBit": 5,
+                        "ErrorValue": 1053020991,
+                        "DeltaValue": 32,
+                        "When": "09-29-2021 20:05:48.602929340"
+                    }
+                },
+                {
+                    "IterationNum": 238,
+                    "Data": {
+                        "PreviousValue": 1053020991,
+                        "IntBit": 6,
+                        "ErrorValue": 1053021055,
+                        "DeltaValue": 64,
+                        "When": "09-29-2021 20:05:48.602929635"
+                    }
+                },
+                {
+                    "IterationNum": 239,
+                    "Data": {
+                        "PreviousValue": 1053021055,
+                        "IntBit": 13,
+                        "ErrorValue": 1053029247,
+                        "DeltaValue": 8192,
+                        "When": "09-29-2021 20:05:48.602930123"
+                    }
+                },
+                {
+                    "IterationNum": 240,
+                    "Data": {
+                        "PreviousValue": 1053029247,
+                        "IntBit": 29,
+                        "ErrorValue": 516158335,
+                        "DeltaValue": -536870912,
+                        "When": "09-29-2021 20:05:48.602930929"
+                    }
+                },
+                {
+                    "IterationNum": 241,
+                    "Data": {
+                        "PreviousValue": 516158335,
+                        "IntBit": 7,
+                        "ErrorValue": 516158463,
+                        "DeltaValue": 128,
+                        "When": "09-29-2021 20:05:48.602931525"
+                    }
+                },
+                {
+                    "IterationNum": 242,
+                    "Data": {
+                        "PreviousValue": 516158463,
+                        "IntBit": 7,
+                        "ErrorValue": 516158335,
+                        "DeltaValue": -128,
+                        "When": "09-29-2021 20:05:48.602932869"
+                    }
+                },
+                {
+                    "IterationNum": 243,
+                    "Data": {
+                        "PreviousValue": 516158335,
+                        "IntBit": 17,
+                        "ErrorValue": 516027263,
+                        "DeltaValue": -131072,
+                        "When": "09-29-2021 20:05:48.602933456"
+                    }
+                },
+                {
+                    "IterationNum": 244,
+                    "Data": {
+                        "PreviousValue": 516027263,
+                        "IntBit": 23,
+                        "ErrorValue": 507638655,
+                        "DeltaValue": -8388608,
+                        "When": "09-29-2021 20:05:48.602933917"
+                    }
+                },
+                {
+                    "IterationNum": 245,
+                    "Data": {
+                        "PreviousValue": 507638655,
+                        "IntBit": 25,
+                        "ErrorValue": 474084223,
+                        "DeltaValue": -33554432,
+                        "When": "09-29-2021 20:05:48.602934240"
+                    }
+                },
+                {
+                    "IterationNum": 246,
+                    "Data": {
+                        "PreviousValue": 474084223,
+                        "IntBit": 6,
+                        "ErrorValue": 474084159,
+                        "DeltaValue": -64,
+                        "When": "09-29-2021 20:05:48.602934947"
+                    }
+                },
+                {
+                    "IterationNum": 247,
+                    "Data": {
+                        "PreviousValue": 474084159,
+                        "IntBit": 17,
+                        "ErrorValue": 474215231,
+                        "DeltaValue": 131072,
+                        "When": "09-29-2021 20:05:48.602935581"
+                    }
+                },
+                {
+                    "IterationNum": 248,
+                    "Data": {
+                        "PreviousValue": 474215231,
+                        "IntBit": 24,
+                        "ErrorValue": 490992447,
+                        "DeltaValue": 16777216,
+                        "When": "09-29-2021 20:05:48.602936076"
+                    }
+                },
+                {
+                    "IterationNum": 249,
+                    "Data": {
+                        "PreviousValue": 490992447,
+                        "IntBit": 27,
+                        "ErrorValue": 356774719,
+                        "DeltaValue": -134217728,
+                        "When": "09-29-2021 20:05:48.602937565"
+                    }
+                },
+                {
+                    "IterationNum": 250,
+                    "Data": {
+                        "PreviousValue": 356774719,
+                        "IntBit": 4,
+                        "ErrorValue": 356774703,
+                        "DeltaValue": -16,
+                        "When": "09-29-2021 20:05:48.602944770"
+                    }
+                },
+                {
+                    "IterationNum": 251,
+                    "Data": {
+                        "PreviousValue": 356774703,
+                        "IntBit": 13,
+                        "ErrorValue": 356766511,
+                        "DeltaValue": -8192,
+                        "When": "09-29-2021 20:05:48.602945406"
+                    }
+                },
+                {
+                    "IterationNum": 252,
+                    "Data": {
+                        "PreviousValue": 356766511,
+                        "IntBit": 15,
+                        "ErrorValue": 356733743,
+                        "DeltaValue": -32768,
+                        "When": "09-29-2021 20:05:48.602945757"
+                    }
+                },
+                {
+                    "IterationNum": 253,
+                    "Data": {
+                        "PreviousValue": 356733743,
+                        "IntBit": 15,
+                        "ErrorValue": 356766511,
+                        "DeltaValue": 32768,
+                        "When": "09-29-2021 20:05:48.602947098"
+                    }
+                },
+                {
+                    "IterationNum": 254,
+                    "Data": {
+                        "PreviousValue": 356766511,
+                        "IntBit": 18,
+                        "ErrorValue": 357028655,
+                        "DeltaValue": 262144,
+                        "When": "09-29-2021 20:05:48.602947470"
+                    }
+                },
+                {
+                    "IterationNum": 255,
+                    "Data": {
+                        "PreviousValue": 357028655,
+                        "IntBit": 27,
+                        "ErrorValue": 491246383,
+                        "DeltaValue": 134217728,
+                        "When": "09-29-2021 20:05:48.602948040"
+                    }
+                },
+                {
+                    "IterationNum": 256,
+                    "Data": {
+                        "PreviousValue": 491246383,
+                        "IntBit": 29,
+                        "ErrorValue": 1028117295,
+                        "DeltaValue": 536870912,
+                        "When": "09-29-2021 20:05:48.602948369"
+                    }
+                },
+                {
+                    "IterationNum": 257,
+                    "Data": {
+                        "PreviousValue": 1028117295,
+                        "IntBit": 17,
+                        "ErrorValue": 1027986223,
+                        "DeltaValue": -131072,
+                        "When": "09-29-2021 20:05:48.602949294"
+                    }
+                },
+                {
+                    "IterationNum": 258,
+                    "Data": {
+                        "PreviousValue": 1027986223,
+                        "IntBit": 20,
+                        "ErrorValue": 1029034799,
+                        "DeltaValue": 1048576,
+                        "When": "09-29-2021 20:05:48.602949655"
+                    }
+                },
+                {
+                    "IterationNum": 259,
+                    "Data": {
+                        "PreviousValue": 1029034799,
+                        "IntBit": 31,
+                        "ErrorValue": 3176518447,
+                        "DeltaValue": 2147483648,
+                        "When": "09-29-2021 20:05:48.602950279"
+                    }
+                },
+                {
+                    "IterationNum": 260,
+                    "Data": {
+                        "PreviousValue": 3176518447,
+                        "IntBit": 20,
+                        "ErrorValue": 3175469871,
+                        "DeltaValue": -1048576,
+                        "When": "09-29-2021 20:05:48.602951264"
+                    }
+                },
+                {
+                    "IterationNum": 261,
+                    "Data": {
+                        "PreviousValue": 3175469871,
+                        "IntBit": 26,
+                        "ErrorValue": 3108361007,
+                        "DeltaValue": -67108864,
+                        "When": "09-29-2021 20:05:48.602951729"
+                    }
+                },
+                {
+                    "IterationNum": 262,
+                    "Data": {
+                        "PreviousValue": 3108361007,
+                        "IntBit": 28,
+                        "ErrorValue": 2839925551,
+                        "DeltaValue": -268435456,
+                        "When": "09-29-2021 20:05:48.602952066"
+                    }
+                },
+                {
+                    "IterationNum": 263,
+                    "Data": {
+                        "PreviousValue": 2839925551,
+                        "IntBit": 8,
+                        "ErrorValue": 2839925295,
+                        "DeltaValue": -256,
+                        "When": "09-29-2021 20:05:48.602952725"
+                    }
+                },
+                {
+                    "IterationNum": 264,
+                    "Data": {
+                        "PreviousValue": 2839925295,
+                        "IntBit": 9,
+                        "ErrorValue": 2839924783,
+                        "DeltaValue": -512,
+                        "When": "09-29-2021 20:05:48.602953025"
+                    }
+                },
+                {
+                    "IterationNum": 265,
+                    "Data": {
+                        "PreviousValue": 2839924783,
+                        "IntBit": 17,
+                        "ErrorValue": 2840055855,
+                        "DeltaValue": 131072,
+                        "When": "09-29-2021 20:05:48.602954616"
+                    }
+                },
+                {
+                    "IterationNum": 266,
+                    "Data": {
+                        "PreviousValue": 2840055855,
+                        "IntBit": 18,
+                        "ErrorValue": 2839793711,
+                        "DeltaValue": -262144,
+                        "When": "09-29-2021 20:05:48.602954909"
+                    }
+                },
+                {
+                    "IterationNum": 267,
+                    "Data": {
+                        "PreviousValue": 2839793711,
+                        "IntBit": 20,
+                        "ErrorValue": 2840842287,
+                        "DeltaValue": 1048576,
+                        "When": "09-29-2021 20:05:48.602955235"
+                    }
+                },
+                {
+                    "IterationNum": 268,
+                    "Data": {
+                        "PreviousValue": 2840842287,
+                        "IntBit": 21,
+                        "ErrorValue": 2842939439,
+                        "DeltaValue": 2097152,
+                        "When": "09-29-2021 20:05:48.602955524"
+                    }
+                },
+                {
+                    "IterationNum": 269,
+                    "Data": {
+                        "PreviousValue": 2842939439,
+                        "IntBit": 27,
+                        "ErrorValue": 2708721711,
+                        "DeltaValue": -134217728,
+                        "When": "09-29-2021 20:05:48.602955981"
+                    }
+                },
+                {
+                    "IterationNum": 270,
+                    "Data": {
+                        "PreviousValue": 2708721711,
+                        "IntBit": 1,
+                        "ErrorValue": 2708721709,
+                        "DeltaValue": -2,
+                        "When": "09-29-2021 20:05:48.602956444"
+                    }
+                },
+                {
+                    "IterationNum": 271,
+                    "Data": {
+                        "PreviousValue": 2708721709,
+                        "IntBit": 16,
+                        "ErrorValue": 2708656173,
+                        "DeltaValue": -65536,
+                        "When": "09-29-2021 20:05:48.602957196"
+                    }
+                },
+                {
+                    "IterationNum": 272,
+                    "Data": {
+                        "PreviousValue": 2708656173,
+                        "IntBit": 28,
+                        "ErrorValue": 2977091629,
+                        "DeltaValue": 268435456,
+                        "When": "09-29-2021 20:05:48.602957862"
+                    }
+                },
+                {
+                    "IterationNum": 273,
+                    "Data": {
+                        "PreviousValue": 2977091629,
+                        "IntBit": 1,
+                        "ErrorValue": 2977091631,
+                        "DeltaValue": 2,
+                        "When": "09-29-2021 20:05:48.602958283"
+                    }
+                },
+                {
+                    "IterationNum": 274,
+                    "Data": {
+                        "PreviousValue": 2977091631,
+                        "IntBit": 2,
+                        "ErrorValue": 2977091627,
+                        "DeltaValue": -4,
+                        "When": "09-29-2021 20:05:48.602958580"
+                    }
+                },
+                {
+                    "IterationNum": 275,
+                    "Data": {
+                        "PreviousValue": 2977091627,
+                        "IntBit": 17,
+                        "ErrorValue": 2976960555,
+                        "DeltaValue": -131072,
+                        "When": "09-29-2021 20:05:48.602959347"
+                    }
+                },
+                {
+                    "IterationNum": 276,
+                    "Data": {
+                        "PreviousValue": 2976960555,
+                        "IntBit": 23,
+                        "ErrorValue": 2985349163,
+                        "DeltaValue": 8388608,
+                        "When": "09-29-2021 20:05:48.602959803"
+                    }
+                },
+                {
+                    "IterationNum": 277,
+                    "Data": {
+                        "PreviousValue": 2985349163,
+                        "IntBit": 0,
+                        "ErrorValue": 2985349162,
+                        "DeltaValue": -1,
+                        "When": "09-29-2021 20:05:48.602960364"
+                    }
+                },
+                {
+                    "IterationNum": 278,
+                    "Data": {
+                        "PreviousValue": 2985349162,
+                        "IntBit": 19,
+                        "ErrorValue": 2985873450,
+                        "DeltaValue": 524288,
+                        "When": "09-29-2021 20:05:48.602961268"
+                    }
+                },
+                {
+                    "IterationNum": 279,
+                    "Data": {
+                        "PreviousValue": 2985873450,
+                        "IntBit": 23,
+                        "ErrorValue": 2977484842,
+                        "DeltaValue": -8388608,
+                        "When": "09-29-2021 20:05:48.602961680"
+                    }
+                },
+                {
+                    "IterationNum": 280,
+                    "Data": {
+                        "PreviousValue": 2977484842,
+                        "IntBit": 29,
+                        "ErrorValue": 2440613930,
+                        "DeltaValue": -536870912,
+                        "When": "09-29-2021 20:05:48.602962146"
+                    }
+                },
+                {
+                    "IterationNum": 281,
+                    "Data": {
+                        "PreviousValue": 2440613930,
+                        "IntBit": 3,
+                        "ErrorValue": 2440613922,
+                        "DeltaValue": -8,
+                        "When": "09-29-2021 20:05:48.602962599"
+                    }
+                },
+                {
+                    "IterationNum": 282,
+                    "Data": {
+                        "PreviousValue": 2440613922,
+                        "IntBit": 8,
+                        "ErrorValue": 2440614178,
+                        "DeltaValue": 256,
+                        "When": "09-29-2021 20:05:48.602963034"
+                    }
+                },
+                {
+                    "IterationNum": 283,
+                    "Data": {
+                        "PreviousValue": 2440614178,
+                        "IntBit": 7,
+                        "ErrorValue": 2440614306,
+                        "DeltaValue": 128,
+                        "When": "09-29-2021 20:05:48.602964344"
+                    }
+                },
+                {
+                    "IterationNum": 284,
+                    "Data": {
+                        "PreviousValue": 2440614306,
+                        "IntBit": 9,
+                        "ErrorValue": 2440614818,
+                        "DeltaValue": 512,
+                        "When": "09-29-2021 20:05:48.602964677"
+                    }
+                },
+                {
+                    "IterationNum": 285,
+                    "Data": {
+                        "PreviousValue": 2440614818,
+                        "IntBit": 18,
+                        "ErrorValue": 2440876962,
+                        "DeltaValue": 262144,
+                        "When": "09-29-2021 20:05:48.602965253"
+                    }
+                },
+                {
+                    "IterationNum": 286,
+                    "Data": {
+                        "PreviousValue": 2440876962,
+                        "IntBit": 28,
+                        "ErrorValue": 2172441506,
+                        "DeltaValue": -268435456,
+                        "When": "09-29-2021 20:05:48.602965865"
+                    }
+                },
+                {
+                    "IterationNum": 287,
+                    "Data": {
+                        "PreviousValue": 2172441506,
+                        "IntBit": 24,
+                        "ErrorValue": 2155664290,
+                        "DeltaValue": -16777216,
+                        "When": "09-29-2021 20:05:48.602967075"
+                    }
+                },
+                {
+                    "IterationNum": 288,
+                    "Data": {
+                        "PreviousValue": 2155664290,
+                        "IntBit": 25,
+                        "ErrorValue": 2189218722,
+                        "DeltaValue": 33554432,
+                        "When": "09-29-2021 20:05:48.602967388"
+                    }
+                },
+                {
+                    "IterationNum": 289,
+                    "Data": {
+                        "PreviousValue": 2189218722,
+                        "IntBit": 3,
+                        "ErrorValue": 2189218730,
+                        "DeltaValue": 8,
+                        "When": "09-29-2021 20:05:48.602967983"
+                    }
+                },
+                {
+                    "IterationNum": 290,
+                    "Data": {
+                        "PreviousValue": 2189218730,
+                        "IntBit": 17,
+                        "ErrorValue": 2189349802,
+                        "DeltaValue": 131072,
+                        "When": "09-29-2021 20:05:48.602968710"
+                    }
+                },
+                {
+                    "IterationNum": 291,
+                    "Data": {
+                        "PreviousValue": 2189349802,
+                        "IntBit": 31,
+                        "ErrorValue": 41866154,
+                        "DeltaValue": -2147483648,
+                        "When": "09-29-2021 20:05:48.602969436"
+                    }
+                },
+                {
+                    "IterationNum": 292,
+                    "Data": {
+                        "PreviousValue": 41866154,
+                        "IntBit": 18,
+                        "ErrorValue": 41604010,
+                        "DeltaValue": -262144,
+                        "When": "09-29-2021 20:05:48.602970344"
+                    }
+                },
+                {
+                    "IterationNum": 293,
+                    "Data": {
+                        "PreviousValue": 41604010,
+                        "IntBit": 24,
+                        "ErrorValue": 58381226,
+                        "DeltaValue": 16777216,
+                        "When": "09-29-2021 20:05:48.602970805"
+                    }
+                },
+                {
+                    "IterationNum": 294,
+                    "Data": {
+                        "PreviousValue": 58381226,
+                        "IntBit": 5,
+                        "ErrorValue": 58381194,
+                        "DeltaValue": -32,
+                        "When": "09-29-2021 20:05:48.602980530"
+                    }
+                },
+                {
+                    "IterationNum": 295,
+                    "Data": {
+                        "PreviousValue": 58381194,
+                        "IntBit": 6,
+                        "ErrorValue": 58381258,
+                        "DeltaValue": 64,
+                        "When": "09-29-2021 20:05:48.602980898"
+                    }
+                },
+                {
+                    "IterationNum": 296,
+                    "Data": {
+                        "PreviousValue": 58381258,
+                        "IntBit": 10,
+                        "ErrorValue": 58382282,
+                        "DeltaValue": 1024,
+                        "When": "09-29-2021 20:05:48.602981314"
+                    }
+                },
+                {
+                    "IterationNum": 297,
+                    "Data": {
+                        "PreviousValue": 58382282,
+                        "IntBit": 26,
+                        "ErrorValue": 125491146,
+                        "DeltaValue": 67108864,
+                        "When": "09-29-2021 20:05:48.602982122"
+                    }
+                },
+                {
+                    "IterationNum": 298,
+                    "Data": {
+                        "PreviousValue": 125491146,
+                        "IntBit": 30,
+                        "ErrorValue": 1199232970,
+                        "DeltaValue": 1073741824,
+                        "When": "09-29-2021 20:05:48.602982522"
+                    }
+                },
+                {
+                    "IterationNum": 299,
+                    "Data": {
+                        "PreviousValue": 1199232970,
+                        "IntBit": 11,
+                        "ErrorValue": 1199235018,
+                        "DeltaValue": 2048,
+                        "When": "09-29-2021 20:05:48.602983214"
+                    }
+                },
+                {
+                    "IterationNum": 300,
+                    "Data": {
+                        "PreviousValue": 1199235018,
+                        "IntBit": 18,
+                        "ErrorValue": 1199497162,
+                        "DeltaValue": 262144,
+                        "When": "09-29-2021 20:05:48.602983712"
+                    }
+                },
+                {
+                    "IterationNum": 301,
+                    "Data": {
+                        "PreviousValue": 1199497162,
+                        "IntBit": 1,
+                        "ErrorValue": 1199497160,
+                        "DeltaValue": -2,
+                        "When": "09-29-2021 20:05:48.602984477"
+                    }
+                },
+                {
+                    "IterationNum": 302,
+                    "Data": {
+                        "PreviousValue": 1199497160,
+                        "IntBit": 12,
+                        "ErrorValue": 1199493064,
+                        "DeltaValue": -4096,
+                        "When": "09-29-2021 20:05:48.602985107"
+                    }
+                },
+                {
+                    "IterationNum": 303,
+                    "Data": {
+                        "PreviousValue": 1199493064,
+                        "IntBit": 27,
+                        "ErrorValue": 1333710792,
+                        "DeltaValue": 134217728,
+                        "When": "09-29-2021 20:05:48.602985888"
+                    }
+                },
+                {
+                    "IterationNum": 304,
+                    "Data": {
+                        "PreviousValue": 1333710792,
+                        "IntBit": 31,
+                        "ErrorValue": 3481194440,
+                        "DeltaValue": 2147483648,
+                        "When": "09-29-2021 20:05:48.602986285"
+                    }
+                },
+                {
+                    "IterationNum": 305,
+                    "Data": {
+                        "PreviousValue": 3481194440,
+                        "IntBit": 3,
+                        "ErrorValue": 3481194432,
+                        "DeltaValue": -8,
+                        "When": "09-29-2021 20:05:48.602986676"
+                    }
+                },
+                {
+                    "IterationNum": 306,
+                    "Data": {
+                        "PreviousValue": 3481194432,
+                        "IntBit": 14,
+                        "ErrorValue": 3481178048,
+                        "DeltaValue": -16384,
+                        "When": "09-29-2021 20:05:48.602987306"
+                    }
+                },
+                {
+                    "IterationNum": 307,
+                    "Data": {
+                        "PreviousValue": 3481178048,
+                        "IntBit": 19,
+                        "ErrorValue": 3480653760,
+                        "DeltaValue": -524288,
+                        "When": "09-29-2021 20:05:48.602987730"
+                    }
+                },
+                {
+                    "IterationNum": 308,
+                    "Data": {
+                        "PreviousValue": 3480653760,
+                        "IntBit": 21,
+                        "ErrorValue": 3478556608,
+                        "DeltaValue": -2097152,
+                        "When": "09-29-2021 20:05:48.602988045"
+                    }
+                },
+                {
+                    "IterationNum": 309,
+                    "Data": {
+                        "PreviousValue": 3478556608,
+                        "IntBit": 27,
+                        "ErrorValue": 3344338880,
+                        "DeltaValue": -134217728,
+                        "When": "09-29-2021 20:05:48.602988500"
+                    }
+                }
+            ]
+        },
+        {
+            "Rate": 0.01,
+            "FlipData": [
+                {
+                    "IterationNum": 1,
+                    "Data": {
+                        "PreviousValue": 305419896,
+                        "IntBit": 12,
+                        "ErrorValue": 305415800,
+                        "DeltaValue": -4096,
+                        "When": "09-29-2021 20:05:48.602989545"
+                    }
+                },
+                {
+                    "IterationNum": 2,
+                    "Data": {
+                        "PreviousValue": 305415800,
+                        "IntBit": 6,
+                        "ErrorValue": 305415736,
+                        "DeltaValue": -64,
+                        "When": "09-29-2021 20:05:48.602995137"
+                    }
+                },
+                {
+                    "IterationNum": 3,
+                    "Data": {
+                        "PreviousValue": 305415736,
+                        "IntBit": 21,
+                        "ErrorValue": 303318584,
+                        "DeltaValue": -2097152,
+                        "When": "09-29-2021 20:05:48.602996068"
+                    }
+                },
+                {
+                    "IterationNum": 4,
+                    "Data": {
+                        "PreviousValue": 303318584,
+                        "IntBit": 25,
+                        "ErrorValue": 269764152,
+                        "DeltaValue": -33554432,
+                        "When": "09-29-2021 20:05:48.602997738"
+                    }
+                },
+                {
+                    "IterationNum": 5,
+                    "Data": {
+                        "PreviousValue": 269764152,
+                        "IntBit": 10,
+                        "ErrorValue": 269763128,
+                        "DeltaValue": -1024,
+                        "When": "09-29-2021 20:05:48.603002894"
+                    }
+                },
+                {
+                    "IterationNum": 6,
+                    "Data": {
+                        "PreviousValue": 269763128,
+                        "IntBit": 19,
+                        "ErrorValue": 270287416,
+                        "DeltaValue": 524288,
+                        "When": "09-29-2021 20:05:48.603003643"
+                    }
+                },
+                {
+                    "IterationNum": 7,
+                    "Data": {
+                        "PreviousValue": 270287416,
+                        "IntBit": 25,
+                        "ErrorValue": 303841848,
+                        "DeltaValue": 33554432,
+                        "When": "09-29-2021 20:05:48.603004131"
+                    }
+                },
+                {
+                    "IterationNum": 8,
+                    "Data": {
+                        "PreviousValue": 303841848,
+                        "IntBit": 8,
+                        "ErrorValue": 303842104,
+                        "DeltaValue": 256,
+                        "When": "09-29-2021 20:05:48.603014610"
+                    }
+                },
+                {
+                    "IterationNum": 9,
+                    "Data": {
+                        "PreviousValue": 303842104,
+                        "IntBit": 15,
+                        "ErrorValue": 303874872,
+                        "DeltaValue": 32768,
+                        "When": "09-29-2021 20:05:48.603018346"
+                    }
+                },
+                {
+                    "IterationNum": 10,
+                    "Data": {
+                        "PreviousValue": 303874872,
+                        "IntBit": 23,
+                        "ErrorValue": 312263480,
+                        "DeltaValue": 8388608,
+                        "When": "09-29-2021 20:05:48.603019073"
+                    }
+                },
+                {
+                    "IterationNum": 11,
+                    "Data": {
+                        "PreviousValue": 312263480,
+                        "IntBit": 4,
+                        "ErrorValue": 312263464,
+                        "DeltaValue": -16,
+                        "When": "09-29-2021 20:05:48.603019782"
+                    }
+                },
+                {
+                    "IterationNum": 12,
+                    "Data": {
+                        "PreviousValue": 312263464,
+                        "IntBit": 17,
+                        "ErrorValue": 312394536,
+                        "DeltaValue": 131072,
+                        "When": "09-29-2021 20:05:48.603020493"
+                    }
+                },
+                {
+                    "IterationNum": 13,
+                    "Data": {
+                        "PreviousValue": 312394536,
+                        "IntBit": 3,
+                        "ErrorValue": 312394528,
+                        "DeltaValue": -8,
+                        "When": "09-29-2021 20:05:48.603021371"
+                    }
+                },
+                {
+                    "IterationNum": 14,
+                    "Data": {
+                        "PreviousValue": 312394528,
+                        "IntBit": 2,
+                        "ErrorValue": 312394532,
+                        "DeltaValue": 4,
+                        "When": "09-29-2021 20:05:48.603022676"
+                    }
+                },
+                {
+                    "IterationNum": 15,
+                    "Data": {
+                        "PreviousValue": 312394532,
+                        "IntBit": 12,
+                        "ErrorValue": 312398628,
+                        "DeltaValue": 4096,
+                        "When": "09-29-2021 20:05:48.603029758"
+                    }
+                },
+                {
+                    "IterationNum": 16,
+                    "Data": {
+                        "PreviousValue": 312398628,
+                        "IntBit": 15,
+                        "ErrorValue": 312365860,
+                        "DeltaValue": -32768,
+                        "When": "09-29-2021 20:05:48.603035532"
+                    }
+                },
+                {
+                    "IterationNum": 17,
+                    "Data": {
+                        "PreviousValue": 312365860,
+                        "IntBit": 20,
+                        "ErrorValue": 311317284,
+                        "DeltaValue": -1048576,
+                        "When": "09-29-2021 20:05:48.603040304"
+                    }
+                },
+                {
+                    "IterationNum": 18,
+                    "Data": {
+                        "PreviousValue": 311317284,
+                        "IntBit": 14,
+                        "ErrorValue": 311300900,
+                        "DeltaValue": -16384,
+                        "When": "09-29-2021 20:05:48.603041695"
+                    }
+                },
+                {
+                    "IterationNum": 19,
+                    "Data": {
+                        "PreviousValue": 311300900,
+                        "IntBit": 3,
+                        "ErrorValue": 311300908,
+                        "DeltaValue": 8,
+                        "When": "09-29-2021 20:05:48.603045904"
+                    }
+                },
+                {
+                    "IterationNum": 20,
+                    "Data": {
+                        "PreviousValue": 311300908,
+                        "IntBit": 18,
+                        "ErrorValue": 311038764,
+                        "DeltaValue": -262144,
+                        "When": "09-29-2021 20:05:48.603047747"
+                    }
+                },
+                {
+                    "IterationNum": 21,
+                    "Data": {
+                        "PreviousValue": 311038764,
+                        "IntBit": 24,
+                        "ErrorValue": 327815980,
+                        "DeltaValue": 16777216,
+                        "When": "09-29-2021 20:05:48.603048221"
+                    }
+                },
+                {
+                    "IterationNum": 22,
+                    "Data": {
+                        "PreviousValue": 327815980,
+                        "IntBit": 28,
+                        "ErrorValue": 59380524,
+                        "DeltaValue": -268435456,
+                        "When": "09-29-2021 20:05:48.603050760"
+                    }
+                },
+                {
+                    "IterationNum": 23,
+                    "Data": {
+                        "PreviousValue": 59380524,
+                        "IntBit": 30,
+                        "ErrorValue": 1133122348,
+                        "DeltaValue": 1073741824,
+                        "When": "09-29-2021 20:05:48.603054325"
+                    }
+                },
+                {
+                    "IterationNum": 24,
+                    "Data": {
+                        "PreviousValue": 1133122348,
+                        "IntBit": 5,
+                        "ErrorValue": 1133122316,
+                        "DeltaValue": -32,
+                        "When": "09-29-2021 20:05:48.603063463"
+                    }
+                },
+                {
+                    "IterationNum": 25,
+                    "Data": {
+                        "PreviousValue": 1133122316,
+                        "IntBit": 14,
+                        "ErrorValue": 1133138700,
+                        "DeltaValue": 16384,
+                        "When": "09-29-2021 20:05:48.603068363"
+                    }
+                },
+                {
+                    "IterationNum": 26,
+                    "Data": {
+                        "PreviousValue": 1133138700,
+                        "IntBit": 18,
+                        "ErrorValue": 1133400844,
+                        "DeltaValue": 262144,
+                        "When": "09-29-2021 20:05:48.603069842"
+                    }
+                },
+                {
+                    "IterationNum": 27,
+                    "Data": {
+                        "PreviousValue": 1133400844,
+                        "IntBit": 30,
+                        "ErrorValue": 59659020,
+                        "DeltaValue": -1073741824,
+                        "When": "09-29-2021 20:05:48.603071601"
+                    }
+                },
+                {
+                    "IterationNum": 28,
+                    "Data": {
+                        "PreviousValue": 59659020,
+                        "IntBit": 28,
+                        "ErrorValue": 328094476,
+                        "DeltaValue": 268435456,
+                        "When": "09-29-2021 20:05:48.603073952"
+                    }
+                },
+                {
+                    "IterationNum": 29,
+                    "Data": {
+                        "PreviousValue": 328094476,
+                        "IntBit": 31,
+                        "ErrorValue": 2475578124,
+                        "DeltaValue": 2147483648,
+                        "When": "09-29-2021 20:05:48.603075398"
+                    }
+                },
+                {
+                    "IterationNum": 30,
+                    "Data": {
+                        "PreviousValue": 2475578124,
+                        "IntBit": 0,
+                        "ErrorValue": 2475578125,
+                        "DeltaValue": 1,
+                        "When": "09-29-2021 20:05:48.603075704"
+                    }
+                },
+                {
+                    "IterationNum": 31,
+                    "Data": {
+                        "PreviousValue": 2475578125,
+                        "IntBit": 27,
+                        "ErrorValue": 2609795853,
+                        "DeltaValue": 134217728,
+                        "When": "09-29-2021 20:05:48.603079020"
+                    }
+                },
+                {
+                    "IterationNum": 32,
+                    "Data": {
+                        "PreviousValue": 2609795853,
+                        "IntBit": 6,
+                        "ErrorValue": 2609795917,
+                        "DeltaValue": 64,
+                        "When": "09-29-2021 20:05:48.603079654"
+                    }
+                },
+                {
+                    "IterationNum": 33,
+                    "Data": {
+                        "PreviousValue": 2609795917,
+                        "IntBit": 6,
+                        "ErrorValue": 2609795853,
+                        "DeltaValue": -64,
+                        "When": "09-29-2021 20:05:48.603084217"
+                    }
+                },
+                {
+                    "IterationNum": 34,
+                    "Data": {
+                        "PreviousValue": 2609795853,
+                        "IntBit": 2,
+                        "ErrorValue": 2609795849,
+                        "DeltaValue": -4,
+                        "When": "09-29-2021 20:05:48.603089496"
+                    }
+                },
+                {
+                    "IterationNum": 35,
+                    "Data": {
+                        "PreviousValue": 2609795849,
+                        "IntBit": 23,
+                        "ErrorValue": 2601407241,
+                        "DeltaValue": -8388608,
+                        "When": "09-29-2021 20:05:48.603094837"
+                    }
+                }
+            ]
+        },
+        {
+            "Rate": 0.001,
+            "FlipData": [
+                {
+                    "IterationNum": 1,
+                    "Data": {
+                        "PreviousValue": 305419896,
+                        "IntBit": 24,
+                        "ErrorValue": 322197112,
+                        "DeltaValue": 16777216,
+                        "When": "09-29-2021 20:05:48.603217229"
+                    }
+                }
+            ]
+        },
+        {
+            "Rate": 0.0001,
+            "FlipData": [
+                {
+                    "IterationNum": 1,
+                    "Data": {
+                        "PreviousValue": 305419896,
+                        "IntBit": 21,
+                        "ErrorValue": 303322744,
+                        "DeltaValue": -2097152,
+                        "When": "09-29-2021 20:05:48.603252676"
+                    }
+                }
+            ]
+        },
+        {
+            "Rate": 0.00001,
+            "FlipData": null
+        },
+        {
+            "Rate": 0.000001,
+            "FlipData": null
+        },
+        {
+            "Rate": 1e-7,
+            "FlipData": null
+        },
+        {
+            "Rate": 1e-8,
+            "FlipData": null
+        },
+        {
+            "Rate": 1e-9,
+            "FlipData": null
+        },
+        {
+            "Rate": 1e-10,
+            "FlipData": null
+        }
+    ]
+}
