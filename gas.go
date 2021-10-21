@@ -1,7 +1,6 @@
 package main
 
 import (
-	//"fmt"
 	"encoding/hex"
 	"errors"
 	"fmt"
@@ -39,6 +38,14 @@ func main() {
 	// Set up transaction
 	wei, _ := toWei(0.05, "ether")
 	receipt := sendTransaction("0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",
+		"0xac03bb73b6a9e108530aff4df5077c2b3d481e5a",
+		wei,
+		22000)
+	receipt = sendTransaction("0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",
+		"0xac03bb73b6a9e108530aff4df5077c2b3d481e5a",
+		wei,
+		22000)
+	receipt = sendTransaction("0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",
 		"0xac03bb73b6a9e108530aff4df5077c2b3d481e5a",
 		wei,
 		22000)
