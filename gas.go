@@ -3,14 +3,13 @@ package main
 import (
 	"encoding/hex"
 	"errors"
-	"fmt"
 	"math"
 	"math/big"
 	"math/rand"
 	"time"
 
 	mathEth "github.com/ethereum/go-ethereum/common/math"
-	flip "github.com/griffindavis02/package"
+	"github.com/griffindavis02/eth-bit-flip/injection"
 )
 
 type Transaction struct {
@@ -22,57 +21,42 @@ type Transaction struct {
 }
 
 var (
-	mjsonOut         flip.Output
 	mNonce           uint = 0
 	mGasPrice        uint = 21000
-	mReceipt         string
 	mTransactionTrie []Transaction
 )
 
 func main() {
-	arrRates := []float64{0.1, 0.01, 0.001}
 
 	// Initialize testing environment with error rates and output
-	flip.Initalize("iteration", 10, arrRates, &mjsonOut)
 
 	// Set up transaction
-	wei, _ := toWei(0.05, "ether")
-	receipt := sendTransaction("0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",
-		"0xac03bb73b6a9e108530aff4df5077c2b3d481e5a",
-		wei,
-		22000)
-	receipt = sendTransaction("0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",
-		"0xac03bb73b6a9e108530aff4df5077c2b3d481e5a",
-		wei,
-		22000)
-	receipt = sendTransaction("0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",
-		"0xac03bb73b6a9e108530aff4df5077c2b3d481e5a",
-		wei,
-		22000)
-
-	fmt.Println(mTransactionTrie)
-	fmt.Println(receipt)
-
+	for range make([]int, 10000) {
+		wei, _ := toWei(0.05, "ether")
+		sendTransaction("0xEA674fdDe714fd979de3EdF0F56AA9716B898ec8",
+			"0xac03bb73b6a9e108530aff4df5077c2b3d481e5a",
+			wei,
+			22000)
+	}
 	// mjsonOut.PostAPI("http://localhost:5000/express")
 }
 
 func sendTransaction(from string, to string, value *big.Int, gasCap uint) string {
-	fAddress, _ := new(big.Int).SetString(from[2:], 16)
-	tAddress, _ := new(big.Int).SetString(to[2:], 16)
+
 	gasCap = uint(mathEth.U256(big.NewInt(int64(gasCap))).Uint64())
 
-	fAddress = (&mjsonOut).BitFlip(fAddress)
-	tAddress = (&mjsonOut).BitFlip(tAddress)
-	value = (&mjsonOut).BitFlip(value)
+	fAddress := injection.BitFlip(from[2:], `E:\Libraries\Documents\Projects\Code\Capstone\go-ethereum\cmd\flipconfig\flipconfig.json`).(string)
+	tAddress := injection.BitFlip(to[2:], `E:\Libraries\Documents\Projects\Code\Capstone\go-ethereum\cmd\flipconfig\flipconfig.json`).(string)
+	value = injection.BitFlip(value, `E:\Libraries\Documents\Projects\Code\Capstone\go-ethereum\cmd\flipconfig\flipconfig.json`).(*big.Int)
 
 	hash := big.NewInt(0).
-		Rand(rand.New(rand.NewSource(time.Now().Unix())),
+		Rand(rand.New(rand.NewSource(time.Now().UnixNano())),
 			mathEth.U256(big.NewInt(mathEth.MaxBig256.Int64())))
 
 	if gasCap > mGasPrice {
 		mTransactionTrie = append(mTransactionTrie, Transaction{
-			from:        "0x" + hex.EncodeToString(fAddress.Bytes()),
-			to:          "0x" + hex.EncodeToString(tAddress.Bytes()),
+			from:        "0x" + hex.EncodeToString([]byte(fAddress)),
+			to:          "0x" + hex.EncodeToString([]byte(tAddress)),
 			value:       value,
 			receiptHash: "0x" + hex.EncodeToString(hash.Bytes()),
 			nonce:       mNonce,
@@ -80,7 +64,7 @@ func sendTransaction(from string, to string, value *big.Int, gasCap uint) string
 		mNonce++
 	}
 
-	hash = (&mjsonOut).BitFlip(hash)
+	hash = injection.BitFlip(hash, `E:\Libraries\Documents\Projects\Code\Capstone\go-ethereum\cmd\flipconfig\flipconfig.json`).(*big.Int)
 	return "0x" + hex.EncodeToString((hash.Bytes()))
 }
 
@@ -95,12 +79,12 @@ func toWei(value float64, factor string) (*big.Int, error) {
 	switch factor {
 	case "ether":
 		returnValue := big.NewInt(0).Mul(bigValue, big.NewInt(int64(math.Pow(10, 18-multiplicand))))
-		returnValue = (&mjsonOut).BitFlip(returnValue)
+		returnValue = injection.BitFlip(returnValue, `E:\Libraries\Documents\Projects\Code\Capstone\go-ethereum\cmd\flipconfig\flipconfig.json`).(*big.Int)
 		return returnValue, nil
 	case "gwei":
 		returnValue := big.NewInt(0).Mul(bigValue, big.NewInt(int64(math.Pow(10, 18-multiplicand))))
-		returnValue = (&mjsonOut).BitFlip(returnValue)
-		return big.NewInt(0).Mul(bigValue, big.NewInt(int64(math.Pow(10, 9-multiplicand)))), nil
+		returnValue = injection.BitFlip(returnValue, `E:\Libraries\Documents\Projects\Code\Capstone\go-ethereum\cmd\flipconfig\flipconfig.json`).(*big.Int)
+		return returnValue, nil
 	}
 	return nil, errors.New("invalid_factor")
 }
